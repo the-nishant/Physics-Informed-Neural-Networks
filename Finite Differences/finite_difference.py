@@ -30,13 +30,13 @@ flag = 1
 lasty = 0
 C = 0.5171999214217067
 
-def derivative(x, y = 0):
+def derivative(x, y = 0, step_size = 0):
     global flag
     global C
     if y > 0:
         return flag * math.sqrt((C -y)/y)
     else:
-        return 100 
+        return ((1.5 * step_size * C) ** (2/3) / step_size)
     
 def finite_difference(d, yintercept, window_begin = 0, window_end = 1, step_size = 0.00001):
     f = Function(window_begin, window_end, step_size)
@@ -64,7 +64,7 @@ def finite_difference(d, yintercept, window_begin = 0, window_end = 1, step_size
 
 def compute_loss(step_size):
     loss = 0
-    w = finite_difference(lambda x, y: derivative(x, y), 0, step_size = step_size)
+    w = finite_difference(lambda x, y: derivative(x, y, step_size), 0, step_size = step_size)
     actual_func = pickle.load(open('./actual_function (x, y) pairs.pkl', 'rb'))
     xy_pairs = []
     for i in range(0, 1001):
@@ -75,6 +75,6 @@ def compute_loss(step_size):
     return loss
 
 def plot_figure(step_size):
-    w = finite_difference(lambda x, y: derivative(x, y), 0, step_size = step_size)
+    w = finite_difference(lambda x, y: derivative(x, y, step_size), 0, step_size = step_size)
     w.plot(step_size = step_size, save = True)
-plot_figure(0.00001)
+print(plot_figure(0.00001))
