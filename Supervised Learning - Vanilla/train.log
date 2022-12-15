@@ -1,0 +1,1314 @@
+[15-Dec-22 16:23:22] [INFO] GPU available
+[15-Dec-22 16:23:43] [INFO] GPU available
+[15-Dec-22 16:23:46] [INFO] Constructing computation graph for domain <DataPoints>
+[15-Dec-22 16:23:46] [INFO] Constructing computation graph...
+[15-Dec-22 16:23:46] [INFO] <y>.y <---- net
+[15-Dec-22 16:23:46] [INFO] Computation graph constructed.
+[15-Dec-22 16:23:46] [INFO] Constructing computation graph for domain <InteriorInfer>
+[15-Dec-22 16:23:46] [INFO] Constructing computation graph...
+[15-Dec-22 16:23:46] [INFO] Computation graph constructed.
+[15-Dec-22 16:23:54] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:23:54] [INFO] Constructing computation graph...
+[15-Dec-22 16:23:54] [INFO] <y>.y <---- net
+[15-Dec-22 16:23:54] [INFO] Computation graph constructed.
+[15-Dec-22 16:23:54] [INFO] Iteration: 10, Loss: 0.08166808634996414
+[15-Dec-22 16:23:54] [INFO] Iteration: 20, Loss: 0.03982206806540489
+[15-Dec-22 16:23:54] [INFO] Iteration: 30, Loss: 0.02528783306479454
+[15-Dec-22 16:23:55] [INFO] Iteration: 40, Loss: 0.017338037490844727
+[15-Dec-22 16:23:55] [INFO] Iteration: 50, Loss: 0.013155089691281319
+[15-Dec-22 16:23:55] [INFO] Iteration: 60, Loss: 0.011965259909629822
+[15-Dec-22 16:23:55] [INFO] Iteration: 70, Loss: 0.01154226716607809
+[15-Dec-22 16:23:55] [INFO] Iteration: 80, Loss: 0.011027757078409195
+[15-Dec-22 16:23:55] [INFO] Iteration: 90, Loss: 0.010376603342592716
+[15-Dec-22 16:23:56] [INFO] Iteration: 100, Loss: 0.009764193557202816
+[15-Dec-22 16:23:56] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:23:56] [INFO] Iteration: 110, Loss: 0.009067365899682045
+[15-Dec-22 16:23:56] [INFO] Iteration: 120, Loss: 0.008302440866827965
+[15-Dec-22 16:23:57] [INFO] Iteration: 130, Loss: 0.007449629716575146
+[15-Dec-22 16:23:57] [INFO] Iteration: 140, Loss: 0.006483528763055801
+[15-Dec-22 16:23:57] [INFO] Iteration: 150, Loss: 0.005374509375542402
+[15-Dec-22 16:23:57] [INFO] Iteration: 160, Loss: 0.00424076896160841
+[15-Dec-22 16:23:58] [INFO] Iteration: 170, Loss: 0.0036111462395638227
+[15-Dec-22 16:23:58] [INFO] Iteration: 180, Loss: 0.0033698626793920994
+[15-Dec-22 16:23:58] [INFO] Iteration: 190, Loss: 0.0032975650392472744
+[15-Dec-22 16:23:59] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:23:59] [INFO] Constructing computation graph...
+[15-Dec-22 16:23:59] [INFO] <y>.y <---- net
+[15-Dec-22 16:23:59] [INFO] Computation graph constructed.
+[15-Dec-22 16:23:59] [INFO] Iteration: 200, Loss: 0.0032711494714021683
+[15-Dec-22 16:23:59] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:23:59] [INFO] Iteration: 210, Loss: 0.0032504452392458916
+[15-Dec-22 16:23:59] [INFO] Iteration: 220, Loss: 0.0032282001338899136
+[15-Dec-22 16:23:59] [INFO] Iteration: 230, Loss: 0.003205024404451251
+[15-Dec-22 16:24:00] [INFO] Iteration: 240, Loss: 0.003181549720466137
+[15-Dec-22 16:24:00] [INFO] Iteration: 250, Loss: 0.0031578312627971172
+[15-Dec-22 16:24:00] [INFO] Iteration: 260, Loss: 0.003133727004751563
+[15-Dec-22 16:24:00] [INFO] Iteration: 270, Loss: 0.003109121462330222
+[15-Dec-22 16:24:01] [INFO] Iteration: 280, Loss: 0.003083932213485241
+[15-Dec-22 16:24:01] [INFO] Iteration: 290, Loss: 0.0030581229366362095
+[15-Dec-22 16:24:01] [INFO] Iteration: 300, Loss: 0.003031626343727112
+[15-Dec-22 16:24:01] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:01] [INFO] Iteration: 310, Loss: 0.003004363039508462
+[15-Dec-22 16:24:01] [INFO] Iteration: 320, Loss: 0.0029762289486825466
+[15-Dec-22 16:24:02] [INFO] Iteration: 330, Loss: 0.002947113011032343
+[15-Dec-22 16:24:02] [INFO] Iteration: 340, Loss: 0.00291690556332469
+[15-Dec-22 16:24:02] [INFO] Iteration: 350, Loss: 0.0028853619005531073
+[15-Dec-22 16:24:02] [INFO] Iteration: 360, Loss: 0.0028523269575089216
+[15-Dec-22 16:24:02] [INFO] Iteration: 370, Loss: 0.002817537635564804
+[15-Dec-22 16:24:03] [INFO] Iteration: 380, Loss: 0.0027806658763438463
+[15-Dec-22 16:24:03] [INFO] Iteration: 390, Loss: 0.0027412930503487587
+[15-Dec-22 16:24:03] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:24:03] [INFO] Constructing computation graph...
+[15-Dec-22 16:24:03] [INFO] <y>.y <---- net
+[15-Dec-22 16:24:03] [INFO] Computation graph constructed.
+[15-Dec-22 16:24:03] [INFO] Iteration: 400, Loss: 0.002698920900002122
+[15-Dec-22 16:24:03] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:03] [INFO] Iteration: 410, Loss: 0.0026528944727033377
+[15-Dec-22 16:24:03] [INFO] Iteration: 420, Loss: 0.0026023956015706062
+[15-Dec-22 16:24:04] [INFO] Iteration: 430, Loss: 0.0025471202097833157
+[15-Dec-22 16:24:04] [INFO] Iteration: 440, Loss: 0.0038323216140270233
+[15-Dec-22 16:24:04] [INFO] Iteration: 450, Loss: 0.003538681659847498
+[15-Dec-22 16:24:04] [INFO] Iteration: 460, Loss: 0.0027798328083008528
+[15-Dec-22 16:24:04] [INFO] Iteration: 470, Loss: 0.002654715906828642
+[15-Dec-22 16:24:04] [INFO] Iteration: 480, Loss: 0.0024575991556048393
+[15-Dec-22 16:24:05] [INFO] Iteration: 490, Loss: 0.0023155072703957558
+[15-Dec-22 16:24:05] [INFO] Iteration: 500, Loss: 0.002228321973234415
+[15-Dec-22 16:24:05] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:05] [INFO] Iteration: 510, Loss: 0.004628239199519157
+[15-Dec-22 16:24:05] [INFO] Iteration: 520, Loss: 0.003570309840142727
+[15-Dec-22 16:24:05] [INFO] Iteration: 530, Loss: 0.0037752119824290276
+[15-Dec-22 16:24:06] [INFO] Iteration: 540, Loss: 0.0025097664911299944
+[15-Dec-22 16:24:06] [INFO] Iteration: 550, Loss: 0.0022612179163843393
+[15-Dec-22 16:24:06] [INFO] Iteration: 560, Loss: 0.0027318510692566633
+[15-Dec-22 16:24:06] [INFO] Iteration: 570, Loss: 0.002076932694762945
+[15-Dec-22 16:24:06] [INFO] Iteration: 580, Loss: 0.0032912357710301876
+[15-Dec-22 16:24:06] [INFO] Iteration: 590, Loss: 0.0024057975970208645
+[15-Dec-22 16:24:07] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:24:07] [INFO] Constructing computation graph...
+[15-Dec-22 16:24:07] [INFO] <y>.y <---- net
+[15-Dec-22 16:24:07] [INFO] Computation graph constructed.
+[15-Dec-22 16:24:07] [INFO] Iteration: 600, Loss: 0.002080656588077545
+[15-Dec-22 16:24:07] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:07] [INFO] Iteration: 610, Loss: 0.0025184783153235912
+[15-Dec-22 16:24:07] [INFO] Iteration: 620, Loss: 0.0028544056694954634
+[15-Dec-22 16:24:07] [INFO] Iteration: 630, Loss: 0.0042984625324606895
+[15-Dec-22 16:24:07] [INFO] Iteration: 640, Loss: 0.0024577712174504995
+[15-Dec-22 16:24:08] [INFO] Iteration: 650, Loss: 0.0030274284072220325
+[15-Dec-22 16:24:08] [INFO] Iteration: 660, Loss: 0.002398186596110463
+[15-Dec-22 16:24:08] [INFO] Iteration: 670, Loss: 0.0018570581451058388
+[15-Dec-22 16:24:08] [INFO] Iteration: 680, Loss: 0.0018093979451805353
+[15-Dec-22 16:24:08] [INFO] Iteration: 690, Loss: 0.0021464345045387745
+[15-Dec-22 16:24:08] [INFO] Iteration: 700, Loss: 0.0026012856978923082
+[15-Dec-22 16:24:08] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:09] [INFO] Iteration: 710, Loss: 0.0020089661702513695
+[15-Dec-22 16:24:09] [INFO] Iteration: 720, Loss: 0.0023363230284303427
+[15-Dec-22 16:24:09] [INFO] Iteration: 730, Loss: 0.001955079846084118
+[15-Dec-22 16:24:09] [INFO] Iteration: 740, Loss: 0.0018320201197639108
+[15-Dec-22 16:24:09] [INFO] Iteration: 750, Loss: 0.0020428854040801525
+[15-Dec-22 16:24:10] [INFO] Iteration: 760, Loss: 0.0027092788368463516
+[15-Dec-22 16:24:10] [INFO] Iteration: 770, Loss: 0.002092472743242979
+[15-Dec-22 16:24:10] [INFO] Iteration: 780, Loss: 0.0017816625768318772
+[15-Dec-22 16:24:10] [INFO] Iteration: 790, Loss: 0.0031627099961042404
+[15-Dec-22 16:24:10] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:24:10] [INFO] Constructing computation graph...
+[15-Dec-22 16:24:10] [INFO] <y>.y <---- net
+[15-Dec-22 16:24:10] [INFO] Computation graph constructed.
+[15-Dec-22 16:24:10] [INFO] Iteration: 800, Loss: 0.0037670480087399483
+[15-Dec-22 16:24:10] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:11] [INFO] Iteration: 810, Loss: 0.0020543590653687716
+[15-Dec-22 16:24:11] [INFO] Iteration: 820, Loss: 0.0026652582455426455
+[15-Dec-22 16:24:11] [INFO] Iteration: 830, Loss: 0.0017278289888054132
+[15-Dec-22 16:24:11] [INFO] Iteration: 840, Loss: 0.002432833891361952
+[15-Dec-22 16:24:11] [INFO] Iteration: 850, Loss: 0.0016720930580049753
+[15-Dec-22 16:24:11] [INFO] Iteration: 860, Loss: 0.001661228947341442
+[15-Dec-22 16:24:12] [INFO] Iteration: 870, Loss: 0.001697625732049346
+[15-Dec-22 16:24:12] [INFO] Iteration: 880, Loss: 0.001558290095999837
+[15-Dec-22 16:24:12] [INFO] Iteration: 890, Loss: 0.0015411069616675377
+[15-Dec-22 16:24:12] [INFO] Iteration: 900, Loss: 0.0015170162077993155
+[15-Dec-22 16:24:12] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:12] [INFO] Iteration: 910, Loss: 0.0015174095751717687
+[15-Dec-22 16:24:13] [INFO] Iteration: 920, Loss: 0.0015141710173338652
+[15-Dec-22 16:24:13] [INFO] Iteration: 930, Loss: 0.001512501505203545
+[15-Dec-22 16:24:13] [INFO] Iteration: 940, Loss: 0.0015109183732420206
+[15-Dec-22 16:24:13] [INFO] Iteration: 950, Loss: 0.001509402645751834
+[15-Dec-22 16:24:13] [INFO] Iteration: 960, Loss: 0.0015079311560839415
+[15-Dec-22 16:24:13] [INFO] Iteration: 970, Loss: 0.0015064424369484186
+[15-Dec-22 16:24:14] [INFO] Iteration: 980, Loss: 0.0015049534849822521
+[15-Dec-22 16:24:14] [INFO] Iteration: 990, Loss: 0.001503456151112914
+[15-Dec-22 16:24:14] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:24:14] [INFO] Constructing computation graph...
+[15-Dec-22 16:24:14] [INFO] <y>.y <---- net
+[15-Dec-22 16:24:14] [INFO] Computation graph constructed.
+[15-Dec-22 16:24:14] [INFO] Iteration: 1000, Loss: 0.0015019518323242664
+[15-Dec-22 16:24:14] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:14] [INFO] Iteration: 1010, Loss: 0.0015004428569227457
+[15-Dec-22 16:24:14] [INFO] Iteration: 1020, Loss: 0.0014989268966019154
+[15-Dec-22 16:24:14] [INFO] Iteration: 1030, Loss: 0.0014974052319303155
+[15-Dec-22 16:24:15] [INFO] Iteration: 1040, Loss: 0.0014958766987547278
+[15-Dec-22 16:24:15] [INFO] Iteration: 1050, Loss: 0.0014943424612283707
+[15-Dec-22 16:24:15] [INFO] Iteration: 1060, Loss: 0.0014928017044439912
+[15-Dec-22 16:24:15] [INFO] Iteration: 1070, Loss: 0.0014912521000951529
+[15-Dec-22 16:24:15] [INFO] Iteration: 1080, Loss: 0.0014896976063027978
+[15-Dec-22 16:24:16] [INFO] Iteration: 1090, Loss: 0.0014881358947604895
+[15-Dec-22 16:24:16] [INFO] Iteration: 1100, Loss: 0.0014865678967908025
+[15-Dec-22 16:24:16] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:16] [INFO] Iteration: 1110, Loss: 0.0014849946601316333
+[15-Dec-22 16:24:16] [INFO] Iteration: 1120, Loss: 0.0014834132743999362
+[15-Dec-22 16:24:16] [INFO] Iteration: 1130, Loss: 0.001481826533563435
+[15-Dec-22 16:24:16] [INFO] Iteration: 1140, Loss: 0.0014802381629124284
+[15-Dec-22 16:24:17] [INFO] Iteration: 1150, Loss: 0.001478639547713101
+[15-Dec-22 16:24:17] [INFO] Iteration: 1160, Loss: 0.0014770317357033491
+[15-Dec-22 16:24:17] [INFO] Iteration: 1170, Loss: 0.001475417404435575
+[15-Dec-22 16:24:17] [INFO] Iteration: 1180, Loss: 0.0014737985329702497
+[15-Dec-22 16:24:18] [INFO] Iteration: 1190, Loss: 0.0014721699990332127
+[15-Dec-22 16:24:18] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:24:18] [INFO] Constructing computation graph...
+[15-Dec-22 16:24:18] [INFO] <y>.y <---- net
+[15-Dec-22 16:24:18] [INFO] Computation graph constructed.
+[15-Dec-22 16:24:18] [INFO] Iteration: 1200, Loss: 0.0014706023503094912
+[15-Dec-22 16:24:18] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:18] [INFO] Iteration: 1210, Loss: 0.0014688983792439103
+[15-Dec-22 16:24:18] [INFO] Iteration: 1220, Loss: 0.0014672583201900125
+[15-Dec-22 16:24:18] [INFO] Iteration: 1230, Loss: 0.0014656115090474486
+[15-Dec-22 16:24:19] [INFO] Iteration: 1240, Loss: 0.0014639507280662656
+[15-Dec-22 16:24:19] [INFO] Iteration: 1250, Loss: 0.0014623041497543454
+[15-Dec-22 16:24:19] [INFO] Iteration: 1260, Loss: 0.001460715546272695
+[15-Dec-22 16:24:19] [INFO] Iteration: 1270, Loss: 0.0014589645434170961
+[15-Dec-22 16:24:19] [INFO] Iteration: 1280, Loss: 0.001457435660995543
+[15-Dec-22 16:24:19] [INFO] Iteration: 1290, Loss: 0.0014556560199707747
+[15-Dec-22 16:24:20] [INFO] Iteration: 1300, Loss: 0.0014539057156071067
+[15-Dec-22 16:24:20] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:20] [INFO] Iteration: 1310, Loss: 0.001452287076972425
+[15-Dec-22 16:24:20] [INFO] Iteration: 1320, Loss: 0.0014505042927339673
+[15-Dec-22 16:24:20] [INFO] Iteration: 1330, Loss: 0.0014487947337329388
+[15-Dec-22 16:24:20] [INFO] Iteration: 1340, Loss: 0.001447257585823536
+[15-Dec-22 16:24:21] [INFO] Iteration: 1350, Loss: 0.0014453985495492816
+[15-Dec-22 16:24:21] [INFO] Iteration: 1360, Loss: 0.0014437345089390874
+[15-Dec-22 16:24:21] [INFO] Iteration: 1370, Loss: 0.0014419754734262824
+[15-Dec-22 16:24:21] [INFO] Iteration: 1380, Loss: 0.0014401846565306187
+[15-Dec-22 16:24:21] [INFO] Iteration: 1390, Loss: 0.001438430044800043
+[15-Dec-22 16:24:21] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:24:21] [INFO] Constructing computation graph...
+[15-Dec-22 16:24:21] [INFO] <y>.y <---- net
+[15-Dec-22 16:24:21] [INFO] Computation graph constructed.
+[15-Dec-22 16:24:21] [INFO] Iteration: 1400, Loss: 0.0014366814866662025
+[15-Dec-22 16:24:21] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:22] [INFO] Iteration: 1410, Loss: 0.001434929552488029
+[15-Dec-22 16:24:22] [INFO] Iteration: 1420, Loss: 0.0014331771526485682
+[15-Dec-22 16:24:22] [INFO] Iteration: 1430, Loss: 0.0014314129948616028
+[15-Dec-22 16:24:22] [INFO] Iteration: 1440, Loss: 0.001429678755812347
+[15-Dec-22 16:24:22] [INFO] Iteration: 1450, Loss: 0.0014279576716944575
+[15-Dec-22 16:24:23] [INFO] Iteration: 1460, Loss: 0.0014260857133194804
+[15-Dec-22 16:24:23] [INFO] Iteration: 1470, Loss: 0.0014243004843592644
+[15-Dec-22 16:24:23] [INFO] Iteration: 1480, Loss: 0.0014226373750716448
+[15-Dec-22 16:24:23] [INFO] Iteration: 1490, Loss: 0.0014207848580554128
+[15-Dec-22 16:24:23] [INFO] Iteration: 1500, Loss: 0.001419078791514039
+[15-Dec-22 16:24:23] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:24] [INFO] Iteration: 1510, Loss: 0.0014171096263453364
+[15-Dec-22 16:24:24] [INFO] Iteration: 1520, Loss: 0.0014156508259475231
+[15-Dec-22 16:24:24] [INFO] Iteration: 1530, Loss: 0.0014134994708001614
+[15-Dec-22 16:24:24] [INFO] Iteration: 1540, Loss: 0.0014117498649284244
+[15-Dec-22 16:24:24] [INFO] Iteration: 1550, Loss: 0.0014100089902058244
+[15-Dec-22 16:24:24] [INFO] Iteration: 1560, Loss: 0.0014080319087952375
+[15-Dec-22 16:24:25] [INFO] Iteration: 1570, Loss: 0.0014062661211937666
+[15-Dec-22 16:24:25] [INFO] Iteration: 1580, Loss: 0.0014046115102246404
+[15-Dec-22 16:24:25] [INFO] Iteration: 1590, Loss: 0.001402502879500389
+[15-Dec-22 16:24:25] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:24:25] [INFO] Constructing computation graph...
+[15-Dec-22 16:24:25] [INFO] <y>.y <---- net
+[15-Dec-22 16:24:25] [INFO] Computation graph constructed.
+[15-Dec-22 16:24:25] [INFO] Iteration: 1600, Loss: 0.001400659908540547
+[15-Dec-22 16:24:25] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:25] [INFO] Iteration: 1610, Loss: 0.0013989045983180404
+[15-Dec-22 16:24:26] [INFO] Iteration: 1620, Loss: 0.0013989121653139591
+[15-Dec-22 16:24:26] [INFO] Iteration: 1630, Loss: 0.002599108498543501
+[15-Dec-22 16:24:26] [INFO] Iteration: 1640, Loss: 0.002706436673179269
+[15-Dec-22 16:24:26] [INFO] Iteration: 1650, Loss: 0.0014316961169242859
+[15-Dec-22 16:24:26] [INFO] Iteration: 1660, Loss: 0.0037171151489019394
+[15-Dec-22 16:24:26] [INFO] Iteration: 1670, Loss: 0.0017551438650116324
+[15-Dec-22 16:24:27] [INFO] Iteration: 1680, Loss: 0.0022703479044139385
+[15-Dec-22 16:24:27] [INFO] Iteration: 1690, Loss: 0.00147736887447536
+[15-Dec-22 16:24:27] [INFO] Iteration: 1700, Loss: 0.0014632450183853507
+[15-Dec-22 16:24:27] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:27] [INFO] Iteration: 1710, Loss: 0.0013956133043393493
+[15-Dec-22 16:24:27] [INFO] Iteration: 1720, Loss: 0.001391280791722238
+[15-Dec-22 16:24:28] [INFO] Iteration: 1730, Loss: 0.001393238897435367
+[15-Dec-22 16:24:28] [INFO] Iteration: 1740, Loss: 0.0013842545449733734
+[15-Dec-22 16:24:28] [INFO] Iteration: 1750, Loss: 0.0013823057524859905
+[15-Dec-22 16:24:28] [INFO] Iteration: 1760, Loss: 0.0013791637029498816
+[15-Dec-22 16:24:28] [INFO] Iteration: 1770, Loss: 0.0013770005898550153
+[15-Dec-22 16:24:28] [INFO] Iteration: 1780, Loss: 0.0013749920763075352
+[15-Dec-22 16:24:29] [INFO] Iteration: 1790, Loss: 0.0013729806523770094
+[15-Dec-22 16:24:29] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:24:29] [INFO] Constructing computation graph...
+[15-Dec-22 16:24:29] [INFO] <y>.y <---- net
+[15-Dec-22 16:24:29] [INFO] Computation graph constructed.
+[15-Dec-22 16:24:29] [INFO] Iteration: 1800, Loss: 0.001371023477986455
+[15-Dec-22 16:24:29] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:29] [INFO] Iteration: 1810, Loss: 0.0013693657238036394
+[15-Dec-22 16:24:29] [INFO] Iteration: 1820, Loss: 0.00136733113322407
+[15-Dec-22 16:24:29] [INFO] Iteration: 1830, Loss: 0.0013656237861141562
+[15-Dec-22 16:24:30] [INFO] Iteration: 1840, Loss: 0.001363624818623066
+[15-Dec-22 16:24:30] [INFO] Iteration: 1850, Loss: 0.0013617075746878982
+[15-Dec-22 16:24:30] [INFO] Iteration: 1860, Loss: 0.0013598859077319503
+[15-Dec-22 16:24:30] [INFO] Iteration: 1870, Loss: 0.001358246081508696
+[15-Dec-22 16:24:30] [INFO] Iteration: 1880, Loss: 0.0013562880922108889
+[15-Dec-22 16:24:31] [INFO] Iteration: 1890, Loss: 0.0013547535054385662
+[15-Dec-22 16:24:31] [INFO] Iteration: 1900, Loss: 0.0013526941183954477
+[15-Dec-22 16:24:31] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:31] [INFO] Iteration: 1910, Loss: 0.0013510071439668536
+[15-Dec-22 16:24:31] [INFO] Iteration: 1920, Loss: 0.0013491210993379354
+[15-Dec-22 16:24:31] [INFO] Iteration: 1930, Loss: 0.001347529934719205
+[15-Dec-22 16:24:31] [INFO] Iteration: 1940, Loss: 0.0014786558458581567
+[15-Dec-22 16:24:32] [INFO] Iteration: 1950, Loss: 0.0027526323683559895
+[15-Dec-22 16:24:32] [INFO] Iteration: 1960, Loss: 0.003386725904420018
+[15-Dec-22 16:24:32] [INFO] Iteration: 1970, Loss: 0.0028528296388685703
+[15-Dec-22 16:24:32] [INFO] Iteration: 1980, Loss: 0.0023366964887827635
+[15-Dec-22 16:24:32] [INFO] Iteration: 1990, Loss: 0.0022654582280665636
+[15-Dec-22 16:24:32] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:24:32] [INFO] Constructing computation graph...
+[15-Dec-22 16:24:32] [INFO] <y>.y <---- net
+[15-Dec-22 16:24:32] [INFO] Computation graph constructed.
+[15-Dec-22 16:24:32] [INFO] Iteration: 2000, Loss: 0.0019196397624909878
+[15-Dec-22 16:24:32] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:33] [INFO] Iteration: 2010, Loss: 0.0037500772159546614
+[15-Dec-22 16:24:33] [INFO] Iteration: 2020, Loss: 0.0018573778215795755
+[15-Dec-22 16:24:33] [INFO] Iteration: 2030, Loss: 0.003601517528295517
+[15-Dec-22 16:24:33] [INFO] Iteration: 2040, Loss: 0.0020690790843218565
+[15-Dec-22 16:24:33] [INFO] Iteration: 2050, Loss: 0.0026669283397495747
+[15-Dec-22 16:24:34] [INFO] Iteration: 2060, Loss: 0.0014451943570747972
+[15-Dec-22 16:24:34] [INFO] Iteration: 2070, Loss: 0.00143552350345999
+[15-Dec-22 16:24:34] [INFO] Iteration: 2080, Loss: 0.0018417993560433388
+[15-Dec-22 16:24:34] [INFO] Iteration: 2090, Loss: 0.001573961228132248
+[15-Dec-22 16:24:34] [INFO] Iteration: 2100, Loss: 0.0013870904222130775
+[15-Dec-22 16:24:34] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:35] [INFO] Iteration: 2110, Loss: 0.0013549741124734282
+[15-Dec-22 16:24:35] [INFO] Iteration: 2120, Loss: 0.0013478960609063506
+[15-Dec-22 16:24:35] [INFO] Iteration: 2130, Loss: 0.0013478172477334738
+[15-Dec-22 16:24:35] [INFO] Iteration: 2140, Loss: 0.001341183204203844
+[15-Dec-22 16:24:35] [INFO] Iteration: 2150, Loss: 0.0013363449834287167
+[15-Dec-22 16:24:35] [INFO] Iteration: 2160, Loss: 0.0013335023541003466
+[15-Dec-22 16:24:36] [INFO] Iteration: 2170, Loss: 0.0013307204935699701
+[15-Dec-22 16:24:36] [INFO] Iteration: 2180, Loss: 0.0013281838037073612
+[15-Dec-22 16:24:36] [INFO] Iteration: 2190, Loss: 0.0013258113758638501
+[15-Dec-22 16:24:36] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:24:36] [INFO] Constructing computation graph...
+[15-Dec-22 16:24:36] [INFO] <y>.y <---- net
+[15-Dec-22 16:24:36] [INFO] Computation graph constructed.
+[15-Dec-22 16:24:36] [INFO] Iteration: 2200, Loss: 0.0013235642109066248
+[15-Dec-22 16:24:36] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:36] [INFO] Iteration: 2210, Loss: 0.0013214253121986985
+[15-Dec-22 16:24:36] [INFO] Iteration: 2220, Loss: 0.0013193960767239332
+[15-Dec-22 16:24:37] [INFO] Iteration: 2230, Loss: 0.0013174370396882296
+[15-Dec-22 16:24:37] [INFO] Iteration: 2240, Loss: 0.0013155746273696423
+[15-Dec-22 16:24:37] [INFO] Iteration: 2250, Loss: 0.0013137913774698973
+[15-Dec-22 16:24:37] [INFO] Iteration: 2260, Loss: 0.0013120402581989765
+[15-Dec-22 16:24:37] [INFO] Iteration: 2270, Loss: 0.0013103066012263298
+[15-Dec-22 16:24:38] [INFO] Iteration: 2280, Loss: 0.00130866514518857
+[15-Dec-22 16:24:38] [INFO] Iteration: 2290, Loss: 0.0013070268323644996
+[15-Dec-22 16:24:38] [INFO] Iteration: 2300, Loss: 0.0013054109876975417
+[15-Dec-22 16:24:38] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:38] [INFO] Iteration: 2310, Loss: 0.0013038255274295807
+[15-Dec-22 16:24:38] [INFO] Iteration: 2320, Loss: 0.0013022491475567222
+[15-Dec-22 16:24:39] [INFO] Iteration: 2330, Loss: 0.001300689298659563
+[15-Dec-22 16:24:39] [INFO] Iteration: 2340, Loss: 0.0012991416733711958
+[15-Dec-22 16:24:39] [INFO] Iteration: 2350, Loss: 0.0012976021971553564
+[15-Dec-22 16:24:39] [INFO] Iteration: 2360, Loss: 0.0012960867024958134
+[15-Dec-22 16:24:39] [INFO] Iteration: 2370, Loss: 0.0012945407070219517
+[15-Dec-22 16:24:39] [INFO] Iteration: 2380, Loss: 0.0012930310331285
+[15-Dec-22 16:24:40] [INFO] Iteration: 2390, Loss: 0.001291497959755361
+[15-Dec-22 16:24:40] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:24:40] [INFO] Constructing computation graph...
+[15-Dec-22 16:24:40] [INFO] <y>.y <---- net
+[15-Dec-22 16:24:40] [INFO] Computation graph constructed.
+[15-Dec-22 16:24:40] [INFO] Iteration: 2400, Loss: 0.0012899755965918303
+[15-Dec-22 16:24:40] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:40] [INFO] Iteration: 2410, Loss: 0.0012884470634162426
+[15-Dec-22 16:24:40] [INFO] Iteration: 2420, Loss: 0.0012869708007201552
+[15-Dec-22 16:24:40] [INFO] Iteration: 2430, Loss: 0.0012854927917942405
+[15-Dec-22 16:24:41] [INFO] Iteration: 2440, Loss: 0.0012840426061302423
+[15-Dec-22 16:24:41] [INFO] Iteration: 2450, Loss: 0.0012823134893551469
+[15-Dec-22 16:24:41] [INFO] Iteration: 2460, Loss: 0.0012807721504941583
+[15-Dec-22 16:24:41] [INFO] Iteration: 2470, Loss: 0.0012792146299034357
+[15-Dec-22 16:24:41] [INFO] Iteration: 2480, Loss: 0.0012777980882674456
+[15-Dec-22 16:24:41] [INFO] Iteration: 2490, Loss: 0.001276053604669869
+[15-Dec-22 16:24:42] [INFO] Iteration: 2500, Loss: 0.0012746236752718687
+[15-Dec-22 16:24:42] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:42] [INFO] Iteration: 2510, Loss: 0.0012730895541608334
+[15-Dec-22 16:24:42] [INFO] Iteration: 2520, Loss: 0.0012713461183011532
+[15-Dec-22 16:24:42] [INFO] Iteration: 2530, Loss: 0.0012697363272309303
+[15-Dec-22 16:24:42] [INFO] Iteration: 2540, Loss: 0.0012681513326242566
+[15-Dec-22 16:24:43] [INFO] Iteration: 2550, Loss: 0.0012687987182289362
+[15-Dec-22 16:24:43] [INFO] Iteration: 2560, Loss: 0.0021231446880847216
+[15-Dec-22 16:24:43] [INFO] Iteration: 2570, Loss: 0.0012895973632112145
+[15-Dec-22 16:24:43] [INFO] Iteration: 2580, Loss: 0.0030289676506072283
+[15-Dec-22 16:24:43] [INFO] Iteration: 2590, Loss: 0.0026002407539635897
+[15-Dec-22 16:24:44] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:24:44] [INFO] Constructing computation graph...
+[15-Dec-22 16:24:44] [INFO] <y>.y <---- net
+[15-Dec-22 16:24:44] [INFO] Computation graph constructed.
+[15-Dec-22 16:24:44] [INFO] Iteration: 2600, Loss: 0.0014517145464196801
+[15-Dec-22 16:24:44] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:44] [INFO] Iteration: 2610, Loss: 0.0012728904839605093
+[15-Dec-22 16:24:44] [INFO] Iteration: 2620, Loss: 0.002186704659834504
+[15-Dec-22 16:24:44] [INFO] Iteration: 2630, Loss: 0.002247206401079893
+[15-Dec-22 16:24:44] [INFO] Iteration: 2640, Loss: 0.0013782825553789735
+[15-Dec-22 16:24:44] [INFO] Iteration: 2650, Loss: 0.0012672037119045854
+[15-Dec-22 16:24:45] [INFO] Iteration: 2660, Loss: 0.0012713249307125807
+[15-Dec-22 16:24:45] [INFO] Iteration: 2670, Loss: 0.0012688743881881237
+[15-Dec-22 16:24:45] [INFO] Iteration: 2680, Loss: 0.0012601879425346851
+[15-Dec-22 16:24:45] [INFO] Iteration: 2690, Loss: 0.0012579859467223287
+[15-Dec-22 16:24:45] [INFO] Iteration: 2700, Loss: 0.001255329349078238
+[15-Dec-22 16:24:45] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:46] [INFO] Iteration: 2710, Loss: 0.001253585796803236
+[15-Dec-22 16:24:46] [INFO] Iteration: 2720, Loss: 0.0012513829860836267
+[15-Dec-22 16:24:46] [INFO] Iteration: 2730, Loss: 0.0012495967093855143
+[15-Dec-22 16:24:46] [INFO] Iteration: 2740, Loss: 0.0012478732969611883
+[15-Dec-22 16:24:46] [INFO] Iteration: 2750, Loss: 0.0012461894657462835
+[15-Dec-22 16:24:46] [INFO] Iteration: 2760, Loss: 0.0012445549946278334
+[15-Dec-22 16:24:47] [INFO] Iteration: 2770, Loss: 0.0012429703492671251
+[15-Dec-22 16:24:47] [INFO] Iteration: 2780, Loss: 0.0012413517106324434
+[15-Dec-22 16:24:47] [INFO] Iteration: 2790, Loss: 0.001239788020029664
+[15-Dec-22 16:24:47] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:24:47] [INFO] Constructing computation graph...
+[15-Dec-22 16:24:47] [INFO] <y>.y <---- net
+[15-Dec-22 16:24:47] [INFO] Computation graph constructed.
+[15-Dec-22 16:24:47] [INFO] Iteration: 2800, Loss: 0.0012382445856928825
+[15-Dec-22 16:24:47] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:47] [INFO] Iteration: 2810, Loss: 0.0012367190793156624
+[15-Dec-22 16:24:48] [INFO] Iteration: 2820, Loss: 0.0012351998593658209
+[15-Dec-22 16:24:48] [INFO] Iteration: 2830, Loss: 0.00123384571634233
+[15-Dec-22 16:24:48] [INFO] Iteration: 2840, Loss: 0.0012324245180934668
+[15-Dec-22 16:24:48] [INFO] Iteration: 2850, Loss: 0.0012313409242779016
+[15-Dec-22 16:24:49] [INFO] Iteration: 2860, Loss: 0.0012293565087020397
+[15-Dec-22 16:24:49] [INFO] Iteration: 2870, Loss: 0.0012278159847483039
+[15-Dec-22 16:24:49] [INFO] Iteration: 2880, Loss: 0.0012267760466784239
+[15-Dec-22 16:24:49] [INFO] Iteration: 2890, Loss: 0.0012251969892531633
+[15-Dec-22 16:24:49] [INFO] Iteration: 2900, Loss: 0.0012261953670531511
+[15-Dec-22 16:24:49] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:49] [INFO] Iteration: 2910, Loss: 0.0012288953876122832
+[15-Dec-22 16:24:50] [INFO] Iteration: 2920, Loss: 0.0012314508203417063
+[15-Dec-22 16:24:50] [INFO] Iteration: 2930, Loss: 0.0017495602369308472
+[15-Dec-22 16:24:50] [INFO] Iteration: 2940, Loss: 0.0042820340022444725
+[15-Dec-22 16:24:50] [INFO] Iteration: 2950, Loss: 0.00248026754707098
+[15-Dec-22 16:24:50] [INFO] Iteration: 2960, Loss: 0.0019424590282142162
+[15-Dec-22 16:24:51] [INFO] Iteration: 2970, Loss: 0.0024682790972292423
+[15-Dec-22 16:24:51] [INFO] Iteration: 2980, Loss: 0.0015537114813923836
+[15-Dec-22 16:24:51] [INFO] Iteration: 2990, Loss: 0.0017529039178043604
+[15-Dec-22 16:24:51] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:24:51] [INFO] Constructing computation graph...
+[15-Dec-22 16:24:51] [INFO] <y>.y <---- net
+[15-Dec-22 16:24:51] [INFO] Computation graph constructed.
+[15-Dec-22 16:24:51] [INFO] Iteration: 3000, Loss: 0.0012770862085744739
+[15-Dec-22 16:24:51] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:51] [INFO] Iteration: 3010, Loss: 0.0016218979144468904
+[15-Dec-22 16:24:51] [INFO] Iteration: 3020, Loss: 0.0016804279293864965
+[15-Dec-22 16:24:52] [INFO] Iteration: 3030, Loss: 0.001513398950919509
+[15-Dec-22 16:24:52] [INFO] Iteration: 3040, Loss: 0.0014559021219611168
+[15-Dec-22 16:24:52] [INFO] Iteration: 3050, Loss: 0.0013399936724454165
+[15-Dec-22 16:24:52] [INFO] Iteration: 3060, Loss: 0.0019166982965543866
+[15-Dec-22 16:24:52] [INFO] Iteration: 3070, Loss: 0.0012601492926478386
+[15-Dec-22 16:24:53] [INFO] Iteration: 3080, Loss: 0.001486811088398099
+[15-Dec-22 16:24:53] [INFO] Iteration: 3090, Loss: 0.0012645035749301314
+[15-Dec-22 16:24:53] [INFO] Iteration: 3100, Loss: 0.0012455651303753257
+[15-Dec-22 16:24:53] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:53] [INFO] Iteration: 3110, Loss: 0.0012271362356841564
+[15-Dec-22 16:24:53] [INFO] Iteration: 3120, Loss: 0.0012194110313430429
+[15-Dec-22 16:24:54] [INFO] Iteration: 3130, Loss: 0.0012153616407886147
+[15-Dec-22 16:24:54] [INFO] Iteration: 3140, Loss: 0.001212683622725308
+[15-Dec-22 16:24:54] [INFO] Iteration: 3150, Loss: 0.0012102979235351086
+[15-Dec-22 16:24:54] [INFO] Iteration: 3160, Loss: 0.0012081388849765062
+[15-Dec-22 16:24:54] [INFO] Iteration: 3170, Loss: 0.0012061407323926687
+[15-Dec-22 16:24:54] [INFO] Iteration: 3180, Loss: 0.0012041479349136353
+[15-Dec-22 16:24:55] [INFO] Iteration: 3190, Loss: 0.0012043333845213056
+[15-Dec-22 16:24:55] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:24:55] [INFO] Constructing computation graph...
+[15-Dec-22 16:24:55] [INFO] <y>.y <---- net
+[15-Dec-22 16:24:55] [INFO] Computation graph constructed.
+[15-Dec-22 16:24:55] [INFO] Iteration: 3200, Loss: 0.0012027309276163578
+[15-Dec-22 16:24:55] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:55] [INFO] Iteration: 3210, Loss: 0.0011987764155492187
+[15-Dec-22 16:24:55] [INFO] Iteration: 3220, Loss: 0.0012068133801221848
+[15-Dec-22 16:24:55] [INFO] Iteration: 3230, Loss: 0.0012122259940952063
+[15-Dec-22 16:24:56] [INFO] Iteration: 3240, Loss: 0.001196748111397028
+[15-Dec-22 16:24:56] [INFO] Iteration: 3250, Loss: 0.0011935890652239323
+[15-Dec-22 16:24:56] [INFO] Iteration: 3260, Loss: 0.001193489646539092
+[15-Dec-22 16:24:56] [INFO] Iteration: 3270, Loss: 0.0011900425888597965
+[15-Dec-22 16:24:56] [INFO] Iteration: 3280, Loss: 0.001188905443996191
+[15-Dec-22 16:24:56] [INFO] Iteration: 3290, Loss: 0.00118710333481431
+[15-Dec-22 16:24:57] [INFO] Iteration: 3300, Loss: 0.0011855835327878594
+[15-Dec-22 16:24:57] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:57] [INFO] Iteration: 3310, Loss: 0.0011841226369142532
+[15-Dec-22 16:24:57] [INFO] Iteration: 3320, Loss: 0.0011827924754470587
+[15-Dec-22 16:24:57] [INFO] Iteration: 3330, Loss: 0.0011813824530690908
+[15-Dec-22 16:24:57] [INFO] Iteration: 3340, Loss: 0.0011800533393397927
+[15-Dec-22 16:24:58] [INFO] Iteration: 3350, Loss: 0.0011787217808887362
+[15-Dec-22 16:24:58] [INFO] Iteration: 3360, Loss: 0.0011774201411753893
+[15-Dec-22 16:24:58] [INFO] Iteration: 3370, Loss: 0.0011760437628254294
+[15-Dec-22 16:24:58] [INFO] Iteration: 3380, Loss: 0.0011747482931241393
+[15-Dec-22 16:24:58] [INFO] Iteration: 3390, Loss: 0.0011734302388504148
+[15-Dec-22 16:24:59] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:24:59] [INFO] Constructing computation graph...
+[15-Dec-22 16:24:59] [INFO] <y>.y <---- net
+[15-Dec-22 16:24:59] [INFO] Computation graph constructed.
+[15-Dec-22 16:24:59] [INFO] Iteration: 3400, Loss: 0.0011720876209437847
+[15-Dec-22 16:24:59] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:24:59] [INFO] Iteration: 3410, Loss: 0.00117085303645581
+[15-Dec-22 16:24:59] [INFO] Iteration: 3420, Loss: 0.0011696453439071774
+[15-Dec-22 16:24:59] [INFO] Iteration: 3430, Loss: 0.0011686022626236081
+[15-Dec-22 16:24:59] [INFO] Iteration: 3440, Loss: 0.001167704351246357
+[15-Dec-22 16:24:59] [INFO] Iteration: 3450, Loss: 0.0011677118018269539
+[15-Dec-22 16:25:00] [INFO] Iteration: 3460, Loss: 0.0011659691808745265
+[15-Dec-22 16:25:00] [INFO] Iteration: 3470, Loss: 0.0011649047955870628
+[15-Dec-22 16:25:00] [INFO] Iteration: 3480, Loss: 0.0011637414572760463
+[15-Dec-22 16:25:00] [INFO] Iteration: 3490, Loss: 0.0011626107152551413
+[15-Dec-22 16:25:00] [INFO] Iteration: 3500, Loss: 0.0011613724054768682
+[15-Dec-22 16:25:00] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:01] [INFO] Iteration: 3510, Loss: 0.001159324194304645
+[15-Dec-22 16:25:01] [INFO] Iteration: 3520, Loss: 0.0011610034853219986
+[15-Dec-22 16:25:01] [INFO] Iteration: 3530, Loss: 0.0011610058136284351
+[15-Dec-22 16:25:01] [INFO] Iteration: 3540, Loss: 0.001334111555479467
+[15-Dec-22 16:25:01] [INFO] Iteration: 3550, Loss: 0.0016507207183167338
+[15-Dec-22 16:25:02] [INFO] Iteration: 3560, Loss: 0.0016892889980226755
+[15-Dec-22 16:25:02] [INFO] Iteration: 3570, Loss: 0.001705589471384883
+[15-Dec-22 16:25:02] [INFO] Iteration: 3580, Loss: 0.0019017159938812256
+[15-Dec-22 16:25:02] [INFO] Iteration: 3590, Loss: 0.0017483572009950876
+[15-Dec-22 16:25:03] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:25:03] [INFO] Constructing computation graph...
+[15-Dec-22 16:25:03] [INFO] <y>.y <---- net
+[15-Dec-22 16:25:03] [INFO] Computation graph constructed.
+[15-Dec-22 16:25:03] [INFO] Iteration: 3600, Loss: 0.002618103753775358
+[15-Dec-22 16:25:03] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:03] [INFO] Iteration: 3610, Loss: 0.0018584084464237094
+[15-Dec-22 16:25:03] [INFO] Iteration: 3620, Loss: 0.0014397065388038754
+[15-Dec-22 16:25:03] [INFO] Iteration: 3630, Loss: 0.001196327619254589
+[15-Dec-22 16:25:03] [INFO] Iteration: 3640, Loss: 0.0011703333584591746
+[15-Dec-22 16:25:03] [INFO] Iteration: 3650, Loss: 0.001164412358775735
+[15-Dec-22 16:25:04] [INFO] Iteration: 3660, Loss: 0.0011573542142286897
+[15-Dec-22 16:25:04] [INFO] Iteration: 3670, Loss: 0.0011504727881401777
+[15-Dec-22 16:25:04] [INFO] Iteration: 3680, Loss: 0.0011712292907759547
+[15-Dec-22 16:25:04] [INFO] Iteration: 3690, Loss: 0.0011953692883253098
+[15-Dec-22 16:25:04] [INFO] Iteration: 3700, Loss: 0.0011484695132821798
+[15-Dec-22 16:25:04] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:05] [INFO] Iteration: 3710, Loss: 0.001143126399256289
+[15-Dec-22 16:25:05] [INFO] Iteration: 3720, Loss: 0.0011413489701226354
+[15-Dec-22 16:25:05] [INFO] Iteration: 3730, Loss: 0.0011396943591535091
+[15-Dec-22 16:25:05] [INFO] Iteration: 3740, Loss: 0.0011380005162209272
+[15-Dec-22 16:25:06] [INFO] Iteration: 3750, Loss: 0.0011364069068804383
+[15-Dec-22 16:25:06] [INFO] Iteration: 3760, Loss: 0.0011348430998623371
+[15-Dec-22 16:25:06] [INFO] Iteration: 3770, Loss: 0.0011333373840898275
+[15-Dec-22 16:25:06] [INFO] Iteration: 3780, Loss: 0.0011318668257445097
+[15-Dec-22 16:25:06] [INFO] Iteration: 3790, Loss: 0.001130350399762392
+[15-Dec-22 16:25:06] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:25:06] [INFO] Constructing computation graph...
+[15-Dec-22 16:25:06] [INFO] <y>.y <---- net
+[15-Dec-22 16:25:06] [INFO] Computation graph constructed.
+[15-Dec-22 16:25:06] [INFO] Iteration: 3800, Loss: 0.00112887192517519
+[15-Dec-22 16:25:06] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:07] [INFO] Iteration: 3810, Loss: 0.001127420924603939
+[15-Dec-22 16:25:07] [INFO] Iteration: 3820, Loss: 0.0011261198669672012
+[15-Dec-22 16:25:07] [INFO] Iteration: 3830, Loss: 0.0011246777139604092
+[15-Dec-22 16:25:07] [INFO] Iteration: 3840, Loss: 0.001123393070884049
+[15-Dec-22 16:25:07] [INFO] Iteration: 3850, Loss: 0.0011219281004741788
+[15-Dec-22 16:25:08] [INFO] Iteration: 3860, Loss: 0.001120573142543435
+[15-Dec-22 16:25:08] [INFO] Iteration: 3870, Loss: 0.001119401422329247
+[15-Dec-22 16:25:08] [INFO] Iteration: 3880, Loss: 0.0011178277200087905
+[15-Dec-22 16:25:08] [INFO] Iteration: 3890, Loss: 0.0011165360920131207
+[15-Dec-22 16:25:08] [INFO] Iteration: 3900, Loss: 0.001115075428970158
+[15-Dec-22 16:25:08] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:09] [INFO] Iteration: 3910, Loss: 0.0011134282685816288
+[15-Dec-22 16:25:09] [INFO] Iteration: 3920, Loss: 0.0011141818249598145
+[15-Dec-22 16:25:09] [INFO] Iteration: 3930, Loss: 0.001111953635700047
+[15-Dec-22 16:25:09] [INFO] Iteration: 3940, Loss: 0.0012647781986743212
+[15-Dec-22 16:25:09] [INFO] Iteration: 3950, Loss: 0.0011191412340849638
+[15-Dec-22 16:25:10] [INFO] Iteration: 3960, Loss: 0.0015092868125066161
+[15-Dec-22 16:25:10] [INFO] Iteration: 3970, Loss: 0.0015152717242017388
+[15-Dec-22 16:25:10] [INFO] Iteration: 3980, Loss: 0.0011801562504842877
+[15-Dec-22 16:25:10] [INFO] Iteration: 3990, Loss: 0.0018802974373102188
+[15-Dec-22 16:25:10] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:25:10] [INFO] Constructing computation graph...
+[15-Dec-22 16:25:10] [INFO] <y>.y <---- net
+[15-Dec-22 16:25:10] [INFO] Computation graph constructed.
+[15-Dec-22 16:25:10] [INFO] Iteration: 4000, Loss: 0.00250153592787683
+[15-Dec-22 16:25:10] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:10] [INFO] Iteration: 4010, Loss: 0.0015872834483161569
+[15-Dec-22 16:25:11] [INFO] Iteration: 4020, Loss: 0.002012892160564661
+[15-Dec-22 16:25:11] [INFO] Iteration: 4030, Loss: 0.0011630762601271272
+[15-Dec-22 16:25:11] [INFO] Iteration: 4040, Loss: 0.001188940485008061
+[15-Dec-22 16:25:11] [INFO] Iteration: 4050, Loss: 0.0018714566249400377
+[15-Dec-22 16:25:11] [INFO] Iteration: 4060, Loss: 0.001597450114786625
+[15-Dec-22 16:25:12] [INFO] Iteration: 4070, Loss: 0.0011238049482926726
+[15-Dec-22 16:25:12] [INFO] Iteration: 4080, Loss: 0.0011362790828570724
+[15-Dec-22 16:25:12] [INFO] Iteration: 4090, Loss: 0.0011150580830872059
+[15-Dec-22 16:25:12] [INFO] Iteration: 4100, Loss: 0.0011087696766480803
+[15-Dec-22 16:25:12] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:12] [INFO] Iteration: 4110, Loss: 0.0011048386804759502
+[15-Dec-22 16:25:12] [INFO] Iteration: 4120, Loss: 0.0011023525148630142
+[15-Dec-22 16:25:13] [INFO] Iteration: 4130, Loss: 0.001099914195947349
+[15-Dec-22 16:25:13] [INFO] Iteration: 4140, Loss: 0.0010980230290442705
+[15-Dec-22 16:25:13] [INFO] Iteration: 4150, Loss: 0.0010959244100376964
+[15-Dec-22 16:25:13] [INFO] Iteration: 4160, Loss: 0.0010940309148281813
+[15-Dec-22 16:25:14] [INFO] Iteration: 4170, Loss: 0.0010922153014689684
+[15-Dec-22 16:25:14] [INFO] Iteration: 4180, Loss: 0.0010904681403189898
+[15-Dec-22 16:25:14] [INFO] Iteration: 4190, Loss: 0.0010887454263865948
+[15-Dec-22 16:25:14] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:25:14] [INFO] Constructing computation graph...
+[15-Dec-22 16:25:14] [INFO] <y>.y <---- net
+[15-Dec-22 16:25:14] [INFO] Computation graph constructed.
+[15-Dec-22 16:25:14] [INFO] Iteration: 4200, Loss: 0.00108706159517169
+[15-Dec-22 16:25:14] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:14] [INFO] Iteration: 4210, Loss: 0.0010854033753275871
+[15-Dec-22 16:25:14] [INFO] Iteration: 4220, Loss: 0.0010838034795597196
+[15-Dec-22 16:25:15] [INFO] Iteration: 4230, Loss: 0.0010821935720741749
+[15-Dec-22 16:25:15] [INFO] Iteration: 4240, Loss: 0.0010805981000885367
+[15-Dec-22 16:25:15] [INFO] Iteration: 4250, Loss: 0.0010790243977680802
+[15-Dec-22 16:25:15] [INFO] Iteration: 4260, Loss: 0.0010774771217256784
+[15-Dec-22 16:25:15] [INFO] Iteration: 4270, Loss: 0.00107593706343323
+[15-Dec-22 16:25:16] [INFO] Iteration: 4280, Loss: 0.0010744016617536545
+[15-Dec-22 16:25:16] [INFO] Iteration: 4290, Loss: 0.001072922139428556
+[15-Dec-22 16:25:16] [INFO] Iteration: 4300, Loss: 0.0010713990777730942
+[15-Dec-22 16:25:16] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:16] [INFO] Iteration: 4310, Loss: 0.0010699316626414657
+[15-Dec-22 16:25:16] [INFO] Iteration: 4320, Loss: 0.0010683266445994377
+[15-Dec-22 16:25:16] [INFO] Iteration: 4330, Loss: 0.001066720811650157
+[15-Dec-22 16:25:17] [INFO] Iteration: 4340, Loss: 0.0010651841294020414
+[15-Dec-22 16:25:17] [INFO] Iteration: 4350, Loss: 0.001063629286363721
+[15-Dec-22 16:25:17] [INFO] Iteration: 4360, Loss: 0.001062098192051053
+[15-Dec-22 16:25:17] [INFO] Iteration: 4370, Loss: 0.0010605176212266088
+[15-Dec-22 16:25:17] [INFO] Iteration: 4380, Loss: 0.001072717597708106
+[15-Dec-22 16:25:18] [INFO] Iteration: 4390, Loss: 0.0013530689757317305
+[15-Dec-22 16:25:18] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:25:18] [INFO] Constructing computation graph...
+[15-Dec-22 16:25:18] [INFO] <y>.y <---- net
+[15-Dec-22 16:25:18] [INFO] Computation graph constructed.
+[15-Dec-22 16:25:18] [INFO] Iteration: 4400, Loss: 0.0028219614177942276
+[15-Dec-22 16:25:18] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:18] [INFO] Iteration: 4410, Loss: 0.0010912581346929073
+[15-Dec-22 16:25:18] [INFO] Iteration: 4420, Loss: 0.001994893653318286
+[15-Dec-22 16:25:18] [INFO] Iteration: 4430, Loss: 0.002114588627591729
+[15-Dec-22 16:25:19] [INFO] Iteration: 4440, Loss: 0.00210787751711905
+[15-Dec-22 16:25:19] [INFO] Iteration: 4450, Loss: 0.0011478197993710637
+[15-Dec-22 16:25:19] [INFO] Iteration: 4460, Loss: 0.001342281000688672
+[15-Dec-22 16:25:19] [INFO] Iteration: 4470, Loss: 0.0011115195229649544
+[15-Dec-22 16:25:19] [INFO] Iteration: 4480, Loss: 0.0011587811168283224
+[15-Dec-22 16:25:19] [INFO] Iteration: 4490, Loss: 0.0011596349067986012
+[15-Dec-22 16:25:20] [INFO] Iteration: 4500, Loss: 0.001111264224164188
+[15-Dec-22 16:25:20] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:20] [INFO] Iteration: 4510, Loss: 0.0010593244805932045
+[15-Dec-22 16:25:20] [INFO] Iteration: 4520, Loss: 0.0010601625544950366
+[15-Dec-22 16:25:20] [INFO] Iteration: 4530, Loss: 0.00105661794077605
+[15-Dec-22 16:25:20] [INFO] Iteration: 4540, Loss: 0.0010521571384742856
+[15-Dec-22 16:25:21] [INFO] Iteration: 4550, Loss: 0.0010497451294213533
+[15-Dec-22 16:25:21] [INFO] Iteration: 4560, Loss: 0.0010475029703229666
+[15-Dec-22 16:25:21] [INFO] Iteration: 4570, Loss: 0.001045546610839665
+[15-Dec-22 16:25:21] [INFO] Iteration: 4580, Loss: 0.0010432853596284986
+[15-Dec-22 16:25:21] [INFO] Iteration: 4590, Loss: 0.0010413345880806446
+[15-Dec-22 16:25:22] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:25:22] [INFO] Constructing computation graph...
+[15-Dec-22 16:25:22] [INFO] <y>.y <---- net
+[15-Dec-22 16:25:22] [INFO] Computation graph constructed.
+[15-Dec-22 16:25:22] [INFO] Iteration: 4600, Loss: 0.0010393500560894608
+[15-Dec-22 16:25:22] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:22] [INFO] Iteration: 4610, Loss: 0.0010374970734119415
+[15-Dec-22 16:25:22] [INFO] Iteration: 4620, Loss: 0.0010356042766943574
+[15-Dec-22 16:25:22] [INFO] Iteration: 4630, Loss: 0.0010337927378714085
+[15-Dec-22 16:25:22] [INFO] Iteration: 4640, Loss: 0.0010320228757336736
+[15-Dec-22 16:25:23] [INFO] Iteration: 4650, Loss: 0.001030215178616345
+[15-Dec-22 16:25:23] [INFO] Iteration: 4660, Loss: 0.0010284367017447948
+[15-Dec-22 16:25:23] [INFO] Iteration: 4670, Loss: 0.0010266848839819431
+[15-Dec-22 16:25:23] [INFO] Iteration: 4680, Loss: 0.0010248860344290733
+[15-Dec-22 16:25:23] [INFO] Iteration: 4690, Loss: 0.0010231022024527192
+[15-Dec-22 16:25:23] [INFO] Iteration: 4700, Loss: 0.001021324540488422
+[15-Dec-22 16:25:23] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:24] [INFO] Iteration: 4710, Loss: 0.001019558752886951
+[15-Dec-22 16:25:24] [INFO] Iteration: 4720, Loss: 0.001017761416733265
+[15-Dec-22 16:25:24] [INFO] Iteration: 4730, Loss: 0.0010159547673538327
+[15-Dec-22 16:25:24] [INFO] Iteration: 4740, Loss: 0.0010141403181478381
+[15-Dec-22 16:25:24] [INFO] Iteration: 4750, Loss: 0.0010123137617483735
+[15-Dec-22 16:25:24] [INFO] Iteration: 4760, Loss: 0.0010105111869052052
+[15-Dec-22 16:25:25] [INFO] Iteration: 4770, Loss: 0.0010086111724376678
+[15-Dec-22 16:25:25] [INFO] Iteration: 4780, Loss: 0.0010073806624859571
+[15-Dec-22 16:25:25] [INFO] Iteration: 4790, Loss: 0.0010728432098403573
+[15-Dec-22 16:25:25] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:25:25] [INFO] Constructing computation graph...
+[15-Dec-22 16:25:25] [INFO] <y>.y <---- net
+[15-Dec-22 16:25:25] [INFO] Computation graph constructed.
+[15-Dec-22 16:25:25] [INFO] Iteration: 4800, Loss: 0.0010405966313555837
+[15-Dec-22 16:25:25] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:25] [INFO] Iteration: 4810, Loss: 0.002295084996148944
+[15-Dec-22 16:25:26] [INFO] Iteration: 4820, Loss: 0.001470829825848341
+[15-Dec-22 16:25:26] [INFO] Iteration: 4830, Loss: 0.0012101171305403113
+[15-Dec-22 16:25:26] [INFO] Iteration: 4840, Loss: 0.0018885297467932105
+[15-Dec-22 16:25:26] [INFO] Iteration: 4850, Loss: 0.0016409766394644976
+[15-Dec-22 16:25:26] [INFO] Iteration: 4860, Loss: 0.0010728469351306558
+[15-Dec-22 16:25:26] [INFO] Iteration: 4870, Loss: 0.0013075049500912428
+[15-Dec-22 16:25:27] [INFO] Iteration: 4880, Loss: 0.002030657371506095
+[15-Dec-22 16:25:27] [INFO] Iteration: 4890, Loss: 0.001350226579234004
+[15-Dec-22 16:25:27] [INFO] Iteration: 4900, Loss: 0.0011700049508363008
+[15-Dec-22 16:25:27] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:27] [INFO] Iteration: 4910, Loss: 0.00145376764703542
+[15-Dec-22 16:25:27] [INFO] Iteration: 4920, Loss: 0.0010369459632784128
+[15-Dec-22 16:25:27] [INFO] Iteration: 4930, Loss: 0.002327298279851675
+[15-Dec-22 16:25:28] [INFO] Iteration: 4940, Loss: 0.0014224897604435682
+[15-Dec-22 16:25:28] [INFO] Iteration: 4950, Loss: 0.0014796658651903272
+[15-Dec-22 16:25:28] [INFO] Iteration: 4960, Loss: 0.0013741266448050737
+[15-Dec-22 16:25:28] [INFO] Iteration: 4970, Loss: 0.0012688806746155024
+[15-Dec-22 16:25:28] [INFO] Iteration: 4980, Loss: 0.0010158885270357132
+[15-Dec-22 16:25:29] [INFO] Iteration: 4990, Loss: 0.0010704959277063608
+[15-Dec-22 16:25:29] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:25:29] [INFO] Constructing computation graph...
+[15-Dec-22 16:25:29] [INFO] <y>.y <---- net
+[15-Dec-22 16:25:29] [INFO] Computation graph constructed.
+[15-Dec-22 16:25:29] [INFO] Iteration: 5000, Loss: 0.0010315545368939638
+[15-Dec-22 16:25:29] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:29] [INFO] Iteration: 5010, Loss: 0.0010088192066177726
+[15-Dec-22 16:25:29] [INFO] Iteration: 5020, Loss: 0.000999141251668334
+[15-Dec-22 16:25:29] [INFO] Iteration: 5030, Loss: 0.000995888840407133
+[15-Dec-22 16:25:30] [INFO] Iteration: 5040, Loss: 0.0009919590083882213
+[15-Dec-22 16:25:30] [INFO] Iteration: 5050, Loss: 0.0009886885527521372
+[15-Dec-22 16:25:30] [INFO] Iteration: 5060, Loss: 0.0009855327662080526
+[15-Dec-22 16:25:30] [INFO] Iteration: 5070, Loss: 0.00098233122844249
+[15-Dec-22 16:25:30] [INFO] Iteration: 5080, Loss: 0.0009793807985261083
+[15-Dec-22 16:25:30] [INFO] Iteration: 5090, Loss: 0.0009766112780198455
+[15-Dec-22 16:25:31] [INFO] Iteration: 5100, Loss: 0.0009738849475979805
+[15-Dec-22 16:25:31] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:31] [INFO] Iteration: 5110, Loss: 0.0009713334729894996
+[15-Dec-22 16:25:31] [INFO] Iteration: 5120, Loss: 0.0009688655263744295
+[15-Dec-22 16:25:31] [INFO] Iteration: 5130, Loss: 0.0009663059609010816
+[15-Dec-22 16:25:31] [INFO] Iteration: 5140, Loss: 0.0009638892370276153
+[15-Dec-22 16:25:31] [INFO] Iteration: 5150, Loss: 0.0009616941679269075
+[15-Dec-22 16:25:32] [INFO] Iteration: 5160, Loss: 0.0009593532304279506
+[15-Dec-22 16:25:32] [INFO] Iteration: 5170, Loss: 0.0009569695685058832
+[15-Dec-22 16:25:32] [INFO] Iteration: 5180, Loss: 0.0009547935915179551
+[15-Dec-22 16:25:32] [INFO] Iteration: 5190, Loss: 0.0009524113847874105
+[15-Dec-22 16:25:32] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:25:32] [INFO] Constructing computation graph...
+[15-Dec-22 16:25:32] [INFO] <y>.y <---- net
+[15-Dec-22 16:25:32] [INFO] Computation graph constructed.
+[15-Dec-22 16:25:33] [INFO] Iteration: 5200, Loss: 0.0009500816813670099
+[15-Dec-22 16:25:33] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:33] [INFO] Iteration: 5210, Loss: 0.0009477363200858235
+[15-Dec-22 16:25:33] [INFO] Iteration: 5220, Loss: 0.0011331404093652964
+[15-Dec-22 16:25:33] [INFO] Iteration: 5230, Loss: 0.001278537092730403
+[15-Dec-22 16:25:33] [INFO] Iteration: 5240, Loss: 0.0009483229368925095
+[15-Dec-22 16:25:33] [INFO] Iteration: 5250, Loss: 0.0015411119675263762
+[15-Dec-22 16:25:34] [INFO] Iteration: 5260, Loss: 0.0018907072953879833
+[15-Dec-22 16:25:34] [INFO] Iteration: 5270, Loss: 0.001007041777484119
+[15-Dec-22 16:25:34] [INFO] Iteration: 5280, Loss: 0.0012743078405037522
+[15-Dec-22 16:25:34] [INFO] Iteration: 5290, Loss: 0.0011079953983426094
+[15-Dec-22 16:25:34] [INFO] Iteration: 5300, Loss: 0.0011022399412468076
+[15-Dec-22 16:25:34] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:35] [INFO] Iteration: 5310, Loss: 0.003104540053755045
+[15-Dec-22 16:25:35] [INFO] Iteration: 5320, Loss: 0.0016694082878530025
+[15-Dec-22 16:25:35] [INFO] Iteration: 5330, Loss: 0.0009944814955815673
+[15-Dec-22 16:25:35] [INFO] Iteration: 5340, Loss: 0.0013506286777555943
+[15-Dec-22 16:25:35] [INFO] Iteration: 5350, Loss: 0.0010319482535123825
+[15-Dec-22 16:25:35] [INFO] Iteration: 5360, Loss: 0.0010793055407702923
+[15-Dec-22 16:25:36] [INFO] Iteration: 5370, Loss: 0.0009630409767851233
+[15-Dec-22 16:25:36] [INFO] Iteration: 5380, Loss: 0.0011694752611219883
+[15-Dec-22 16:25:36] [INFO] Iteration: 5390, Loss: 0.0010216626105830073
+[15-Dec-22 16:25:36] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:25:36] [INFO] Constructing computation graph...
+[15-Dec-22 16:25:36] [INFO] <y>.y <---- net
+[15-Dec-22 16:25:36] [INFO] Computation graph constructed.
+[15-Dec-22 16:25:36] [INFO] Iteration: 5400, Loss: 0.000959499622695148
+[15-Dec-22 16:25:36] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:36] [INFO] Iteration: 5410, Loss: 0.0009522613836452365
+[15-Dec-22 16:25:36] [INFO] Iteration: 5420, Loss: 0.0009449537610635161
+[15-Dec-22 16:25:37] [INFO] Iteration: 5430, Loss: 0.0009397253161296248
+[15-Dec-22 16:25:37] [INFO] Iteration: 5440, Loss: 0.0009347412851639092
+[15-Dec-22 16:25:37] [INFO] Iteration: 5450, Loss: 0.0009304339182563126
+[15-Dec-22 16:25:37] [INFO] Iteration: 5460, Loss: 0.0009262631647288799
+[15-Dec-22 16:25:37] [INFO] Iteration: 5470, Loss: 0.0009224179666489363
+[15-Dec-22 16:25:38] [INFO] Iteration: 5480, Loss: 0.0009185578674077988
+[15-Dec-22 16:25:38] [INFO] Iteration: 5490, Loss: 0.000914912496227771
+[15-Dec-22 16:25:38] [INFO] Iteration: 5500, Loss: 0.0009113067644648254
+[15-Dec-22 16:25:38] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:38] [INFO] Iteration: 5510, Loss: 0.0009079460869543254
+[15-Dec-22 16:25:38] [INFO] Iteration: 5520, Loss: 0.0009045407059602439
+[15-Dec-22 16:25:38] [INFO] Iteration: 5530, Loss: 0.0009012148948386312
+[15-Dec-22 16:25:39] [INFO] Iteration: 5540, Loss: 0.0008982013678178191
+[15-Dec-22 16:25:39] [INFO] Iteration: 5550, Loss: 0.0008949953480623662
+[15-Dec-22 16:25:39] [INFO] Iteration: 5560, Loss: 0.000908656045794487
+[15-Dec-22 16:25:39] [INFO] Iteration: 5570, Loss: 0.0012276748893782496
+[15-Dec-22 16:25:39] [INFO] Iteration: 5580, Loss: 0.0016488918336108327
+[15-Dec-22 16:25:40] [INFO] Iteration: 5590, Loss: 0.0015103628393262625
+[15-Dec-22 16:25:40] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:25:40] [INFO] Constructing computation graph...
+[15-Dec-22 16:25:40] [INFO] <y>.y <---- net
+[15-Dec-22 16:25:40] [INFO] Computation graph constructed.
+[15-Dec-22 16:25:40] [INFO] Iteration: 5600, Loss: 0.0012736293720081449
+[15-Dec-22 16:25:40] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:40] [INFO] Iteration: 5610, Loss: 0.0010525151155889034
+[15-Dec-22 16:25:40] [INFO] Iteration: 5620, Loss: 0.0009901500307023525
+[15-Dec-22 16:25:40] [INFO] Iteration: 5630, Loss: 0.0013449067482724786
+[15-Dec-22 16:25:40] [INFO] Iteration: 5640, Loss: 0.0016616317443549633
+[15-Dec-22 16:25:41] [INFO] Iteration: 5650, Loss: 0.0010737852426245809
+[15-Dec-22 16:25:41] [INFO] Iteration: 5660, Loss: 0.0009465921320952475
+[15-Dec-22 16:25:41] [INFO] Iteration: 5670, Loss: 0.0012099274899810553
+[15-Dec-22 16:25:41] [INFO] Iteration: 5680, Loss: 0.0009167124517261982
+[15-Dec-22 16:25:41] [INFO] Iteration: 5690, Loss: 0.0009016492404043674
+[15-Dec-22 16:25:41] [INFO] Iteration: 5700, Loss: 0.0014450489543378353
+[15-Dec-22 16:25:41] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:42] [INFO] Iteration: 5710, Loss: 0.0009101880714297295
+[15-Dec-22 16:25:42] [INFO] Iteration: 5720, Loss: 0.0008938388200476766
+[15-Dec-22 16:25:42] [INFO] Iteration: 5730, Loss: 0.0009287866996601224
+[15-Dec-22 16:25:42] [INFO] Iteration: 5740, Loss: 0.0008973118965514004
+[15-Dec-22 16:25:42] [INFO] Iteration: 5750, Loss: 0.0009017918491736054
+[15-Dec-22 16:25:43] [INFO] Iteration: 5760, Loss: 0.0009539300226606429
+[15-Dec-22 16:25:43] [INFO] Iteration: 5770, Loss: 0.0011999456910416484
+[15-Dec-22 16:25:43] [INFO] Iteration: 5780, Loss: 0.001081052701920271
+[15-Dec-22 16:25:43] [INFO] Iteration: 5790, Loss: 0.0008921013795770705
+[15-Dec-22 16:25:43] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:25:43] [INFO] Constructing computation graph...
+[15-Dec-22 16:25:43] [INFO] <y>.y <---- net
+[15-Dec-22 16:25:43] [INFO] Computation graph constructed.
+[15-Dec-22 16:25:43] [INFO] Iteration: 5800, Loss: 0.0011291794944554567
+[15-Dec-22 16:25:43] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:43] [INFO] Iteration: 5810, Loss: 0.0009703644318506122
+[15-Dec-22 16:25:44] [INFO] Iteration: 5820, Loss: 0.0008867467404343188
+[15-Dec-22 16:25:44] [INFO] Iteration: 5830, Loss: 0.0010451676789671183
+[15-Dec-22 16:25:44] [INFO] Iteration: 5840, Loss: 0.0009089838131330907
+[15-Dec-22 16:25:44] [INFO] Iteration: 5850, Loss: 0.0009276556666009128
+[15-Dec-22 16:25:44] [INFO] Iteration: 5860, Loss: 0.001161243999376893
+[15-Dec-22 16:25:45] [INFO] Iteration: 5870, Loss: 0.0010194678325206041
+[15-Dec-22 16:25:45] [INFO] Iteration: 5880, Loss: 0.0009623524383641779
+[15-Dec-22 16:25:45] [INFO] Iteration: 5890, Loss: 0.0012136087752878666
+[15-Dec-22 16:25:45] [INFO] Iteration: 5900, Loss: 0.0011159954592585564
+[15-Dec-22 16:25:45] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:45] [INFO] Iteration: 5910, Loss: 0.0008759063202887774
+[15-Dec-22 16:25:46] [INFO] Iteration: 5920, Loss: 0.0010489507112652063
+[15-Dec-22 16:25:46] [INFO] Iteration: 5930, Loss: 0.0009044875623658299
+[15-Dec-22 16:25:46] [INFO] Iteration: 5940, Loss: 0.0009051112574525177
+[15-Dec-22 16:25:46] [INFO] Iteration: 5950, Loss: 0.0011295825242996216
+[15-Dec-22 16:25:46] [INFO] Iteration: 5960, Loss: 0.0010188864544034004
+[15-Dec-22 16:25:46] [INFO] Iteration: 5970, Loss: 0.0009526830981485546
+[15-Dec-22 16:25:47] [INFO] Iteration: 5980, Loss: 0.0011450774036347866
+[15-Dec-22 16:25:47] [INFO] Iteration: 5990, Loss: 0.0010655354708433151
+[15-Dec-22 16:25:47] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:25:47] [INFO] Constructing computation graph...
+[15-Dec-22 16:25:47] [INFO] <y>.y <---- net
+[15-Dec-22 16:25:47] [INFO] Computation graph constructed.
+[15-Dec-22 16:25:47] [INFO] Iteration: 6000, Loss: 0.0008581309230066836
+[15-Dec-22 16:25:47] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:47] [INFO] Iteration: 6010, Loss: 0.0009952280670404434
+[15-Dec-22 16:25:47] [INFO] Iteration: 6020, Loss: 0.0008731678826734424
+[15-Dec-22 16:25:48] [INFO] Iteration: 6030, Loss: 0.0009256976190954447
+[15-Dec-22 16:25:48] [INFO] Iteration: 6040, Loss: 0.0011552078649401665
+[15-Dec-22 16:25:48] [INFO] Iteration: 6050, Loss: 0.001044930424541235
+[15-Dec-22 16:25:48] [INFO] Iteration: 6060, Loss: 0.0009421027498319745
+[15-Dec-22 16:25:48] [INFO] Iteration: 6070, Loss: 0.0011248295195400715
+[15-Dec-22 16:25:49] [INFO] Iteration: 6080, Loss: 0.0009789700852707028
+[15-Dec-22 16:25:49] [INFO] Iteration: 6090, Loss: 0.0008430000161752105
+[15-Dec-22 16:25:49] [INFO] Iteration: 6100, Loss: 0.0009569801623001695
+[15-Dec-22 16:25:49] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:49] [INFO] Iteration: 6110, Loss: 0.0008505405276082456
+[15-Dec-22 16:25:49] [INFO] Iteration: 6120, Loss: 0.0008846292621456087
+[15-Dec-22 16:25:50] [INFO] Iteration: 6130, Loss: 0.0010959398932754993
+[15-Dec-22 16:25:50] [INFO] Iteration: 6140, Loss: 0.0009576989687047899
+[15-Dec-22 16:25:50] [INFO] Iteration: 6150, Loss: 0.0009258257923647761
+[15-Dec-22 16:25:50] [INFO] Iteration: 6160, Loss: 0.0011691004037857056
+[15-Dec-22 16:25:50] [INFO] Iteration: 6170, Loss: 0.0011252880794927478
+[15-Dec-22 16:25:50] [INFO] Iteration: 6180, Loss: 0.0008399364887736738
+[15-Dec-22 16:25:51] [INFO] Iteration: 6190, Loss: 0.0010602233232930303
+[15-Dec-22 16:25:51] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:25:51] [INFO] Constructing computation graph...
+[15-Dec-22 16:25:51] [INFO] <y>.y <---- net
+[15-Dec-22 16:25:51] [INFO] Computation graph constructed.
+[15-Dec-22 16:25:51] [INFO] Iteration: 6200, Loss: 0.0009015838732011616
+[15-Dec-22 16:25:51] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:51] [INFO] Iteration: 6210, Loss: 0.0008163715829141438
+[15-Dec-22 16:25:51] [INFO] Iteration: 6220, Loss: 0.0009929909138008952
+[15-Dec-22 16:25:51] [INFO] Iteration: 6230, Loss: 0.0008645346388220787
+[15-Dec-22 16:25:51] [INFO] Iteration: 6240, Loss: 0.0008248616941273212
+[15-Dec-22 16:25:52] [INFO] Iteration: 6250, Loss: 0.0014210323570296168
+[15-Dec-22 16:25:52] [INFO] Iteration: 6260, Loss: 0.0008040836546570063
+[15-Dec-22 16:25:52] [INFO] Iteration: 6270, Loss: 0.0008011056343093514
+[15-Dec-22 16:25:52] [INFO] Iteration: 6280, Loss: 0.0007912488072179258
+[15-Dec-22 16:25:52] [INFO] Iteration: 6290, Loss: 0.0007806314970366657
+[15-Dec-22 16:25:53] [INFO] Iteration: 6300, Loss: 0.0007725262548774481
+[15-Dec-22 16:25:53] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:53] [INFO] Iteration: 6310, Loss: 0.0007646743906661868
+[15-Dec-22 16:25:53] [INFO] Iteration: 6320, Loss: 0.0009022387093864381
+[15-Dec-22 16:25:53] [INFO] Iteration: 6330, Loss: 0.000774199259467423
+[15-Dec-22 16:25:53] [INFO] Iteration: 6340, Loss: 0.0007804554188624024
+[15-Dec-22 16:25:54] [INFO] Iteration: 6350, Loss: 0.0013311761431396008
+[15-Dec-22 16:25:54] [INFO] Iteration: 6360, Loss: 0.0017136778915300965
+[15-Dec-22 16:25:54] [INFO] Iteration: 6370, Loss: 0.00114662223495543
+[15-Dec-22 16:25:54] [INFO] Iteration: 6380, Loss: 0.0024436076637357473
+[15-Dec-22 16:25:54] [INFO] Iteration: 6390, Loss: 0.0028935035225003958
+[15-Dec-22 16:25:55] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:25:55] [INFO] Constructing computation graph...
+[15-Dec-22 16:25:55] [INFO] <y>.y <---- net
+[15-Dec-22 16:25:55] [INFO] Computation graph constructed.
+[15-Dec-22 16:25:55] [INFO] Iteration: 6400, Loss: 0.0016430749092251062
+[15-Dec-22 16:25:55] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:55] [INFO] Iteration: 6410, Loss: 0.0019221825059503317
+[15-Dec-22 16:25:55] [INFO] Iteration: 6420, Loss: 0.0020150430500507355
+[15-Dec-22 16:25:55] [INFO] Iteration: 6430, Loss: 0.0018480743747204542
+[15-Dec-22 16:25:55] [INFO] Iteration: 6440, Loss: 0.0010799579322338104
+[15-Dec-22 16:25:55] [INFO] Iteration: 6450, Loss: 0.0010988349094986916
+[15-Dec-22 16:25:56] [INFO] Iteration: 6460, Loss: 0.0008174173999577761
+[15-Dec-22 16:25:56] [INFO] Iteration: 6470, Loss: 0.0007833907729946077
+[15-Dec-22 16:25:56] [INFO] Iteration: 6480, Loss: 0.0007995079504325986
+[15-Dec-22 16:25:56] [INFO] Iteration: 6490, Loss: 0.0008013255428522825
+[15-Dec-22 16:25:56] [INFO] Iteration: 6500, Loss: 0.000753513362724334
+[15-Dec-22 16:25:56] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:56] [INFO] Iteration: 6510, Loss: 0.0007384657510556281
+[15-Dec-22 16:25:57] [INFO] Iteration: 6520, Loss: 0.0012422107392922044
+[15-Dec-22 16:25:57] [INFO] Iteration: 6530, Loss: 0.0007266547181643546
+[15-Dec-22 16:25:57] [INFO] Iteration: 6540, Loss: 0.000978231430053711
+[15-Dec-22 16:25:57] [INFO] Iteration: 6550, Loss: 0.00213423790410161
+[15-Dec-22 16:25:57] [INFO] Iteration: 6560, Loss: 0.0009961575269699097
+[15-Dec-22 16:25:58] [INFO] Iteration: 6570, Loss: 0.0009159906185232103
+[15-Dec-22 16:25:58] [INFO] Iteration: 6580, Loss: 0.0008363300003111362
+[15-Dec-22 16:25:58] [INFO] Iteration: 6590, Loss: 0.0007749940268695354
+[15-Dec-22 16:25:58] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:25:58] [INFO] Constructing computation graph...
+[15-Dec-22 16:25:58] [INFO] <y>.y <---- net
+[15-Dec-22 16:25:58] [INFO] Computation graph constructed.
+[15-Dec-22 16:25:58] [INFO] Iteration: 6600, Loss: 0.0014574845554307103
+[15-Dec-22 16:25:58] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:25:58] [INFO] Iteration: 6610, Loss: 0.0008709856774657965
+[15-Dec-22 16:25:59] [INFO] Iteration: 6620, Loss: 0.0007337600691244006
+[15-Dec-22 16:25:59] [INFO] Iteration: 6630, Loss: 0.0007301965961232781
+[15-Dec-22 16:25:59] [INFO] Iteration: 6640, Loss: 0.0007354896515607834
+[15-Dec-22 16:25:59] [INFO] Iteration: 6650, Loss: 0.002225455828011036
+[15-Dec-22 16:25:59] [INFO] Iteration: 6660, Loss: 0.0009969857055693865
+[15-Dec-22 16:25:59] [INFO] Iteration: 6670, Loss: 0.0007083781529217958
+[15-Dec-22 16:26:00] [INFO] Iteration: 6680, Loss: 0.0017833845922723413
+[15-Dec-22 16:26:00] [INFO] Iteration: 6690, Loss: 0.0007444017101079226
+[15-Dec-22 16:26:00] [INFO] Iteration: 6700, Loss: 0.0007652287604287267
+[15-Dec-22 16:26:00] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:00] [INFO] Iteration: 6710, Loss: 0.0012702117674052715
+[15-Dec-22 16:26:00] [INFO] Iteration: 6720, Loss: 0.002410378772765398
+[15-Dec-22 16:26:01] [INFO] Iteration: 6730, Loss: 0.0026135919615626335
+[15-Dec-22 16:26:01] [INFO] Iteration: 6740, Loss: 0.001213770592585206
+[15-Dec-22 16:26:01] [INFO] Iteration: 6750, Loss: 0.0013662404380738735
+[15-Dec-22 16:26:01] [INFO] Iteration: 6760, Loss: 0.0012901397421956062
+[15-Dec-22 16:26:01] [INFO] Iteration: 6770, Loss: 0.0018428114708513021
+[15-Dec-22 16:26:02] [INFO] Iteration: 6780, Loss: 0.0011540695559233427
+[15-Dec-22 16:26:02] [INFO] Iteration: 6790, Loss: 0.0007741543231531978
+[15-Dec-22 16:26:02] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:26:02] [INFO] Constructing computation graph...
+[15-Dec-22 16:26:02] [INFO] <y>.y <---- net
+[15-Dec-22 16:26:02] [INFO] Computation graph constructed.
+[15-Dec-22 16:26:02] [INFO] Iteration: 6800, Loss: 0.000823493639472872
+[15-Dec-22 16:26:02] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:02] [INFO] Iteration: 6810, Loss: 0.0007366464124061167
+[15-Dec-22 16:26:02] [INFO] Iteration: 6820, Loss: 0.0007271388312801719
+[15-Dec-22 16:26:03] [INFO] Iteration: 6830, Loss: 0.0007047019898891449
+[15-Dec-22 16:26:03] [INFO] Iteration: 6840, Loss: 0.0006866469630040228
+[15-Dec-22 16:26:03] [INFO] Iteration: 6850, Loss: 0.0007897538598626852
+[15-Dec-22 16:26:03] [INFO] Iteration: 6860, Loss: 0.0008424349362030625
+[15-Dec-22 16:26:03] [INFO] Iteration: 6870, Loss: 0.0007057705079205334
+[15-Dec-22 16:26:04] [INFO] Iteration: 6880, Loss: 0.0007875811425037682
+[15-Dec-22 16:26:04] [INFO] Iteration: 6890, Loss: 0.0011020877864211798
+[15-Dec-22 16:26:04] [INFO] Iteration: 6900, Loss: 0.0011747032403945923
+[15-Dec-22 16:26:04] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:04] [INFO] Iteration: 6910, Loss: 0.0006793477805331349
+[15-Dec-22 16:26:04] [INFO] Iteration: 6920, Loss: 0.0017607789486646652
+[15-Dec-22 16:26:04] [INFO] Iteration: 6930, Loss: 0.0015922298189252615
+[15-Dec-22 16:26:05] [INFO] Iteration: 6940, Loss: 0.0015489862998947501
+[15-Dec-22 16:26:05] [INFO] Iteration: 6950, Loss: 0.0007520010112784803
+[15-Dec-22 16:26:05] [INFO] Iteration: 6960, Loss: 0.0006673230673186481
+[15-Dec-22 16:26:05] [INFO] Iteration: 6970, Loss: 0.0006950965616852045
+[15-Dec-22 16:26:05] [INFO] Iteration: 6980, Loss: 0.0009208210394717753
+[15-Dec-22 16:26:06] [INFO] Iteration: 6990, Loss: 0.0015130481915548444
+[15-Dec-22 16:26:06] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:26:06] [INFO] Constructing computation graph...
+[15-Dec-22 16:26:06] [INFO] <y>.y <---- net
+[15-Dec-22 16:26:06] [INFO] Computation graph constructed.
+[15-Dec-22 16:26:06] [INFO] Iteration: 7000, Loss: 0.0010496808681637049
+[15-Dec-22 16:26:06] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:06] [INFO] Iteration: 7010, Loss: 0.0006814189255237579
+[15-Dec-22 16:26:06] [INFO] Iteration: 7020, Loss: 0.0006538064335472882
+[15-Dec-22 16:26:06] [INFO] Iteration: 7030, Loss: 0.0007976876804605126
+[15-Dec-22 16:26:06] [INFO] Iteration: 7040, Loss: 0.0007590170134790242
+[15-Dec-22 16:26:07] [INFO] Iteration: 7050, Loss: 0.0010840777540579438
+[15-Dec-22 16:26:07] [INFO] Iteration: 7060, Loss: 0.001312832348048687
+[15-Dec-22 16:26:07] [INFO] Iteration: 7070, Loss: 0.0015676680486649275
+[15-Dec-22 16:26:07] [INFO] Iteration: 7080, Loss: 0.0012588094687089324
+[15-Dec-22 16:26:07] [INFO] Iteration: 7090, Loss: 0.0006611841963604093
+[15-Dec-22 16:26:08] [INFO] Iteration: 7100, Loss: 0.0008521386189386249
+[15-Dec-22 16:26:08] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:08] [INFO] Iteration: 7110, Loss: 0.000674777606036514
+[15-Dec-22 16:26:08] [INFO] Iteration: 7120, Loss: 0.0008822634117677808
+[15-Dec-22 16:26:08] [INFO] Iteration: 7130, Loss: 0.0013199736131355166
+[15-Dec-22 16:26:08] [INFO] Iteration: 7140, Loss: 0.0011036277282983065
+[15-Dec-22 16:26:08] [INFO] Iteration: 7150, Loss: 0.0014908529119566083
+[15-Dec-22 16:26:09] [INFO] Iteration: 7160, Loss: 0.0009277018834836781
+[15-Dec-22 16:26:09] [INFO] Iteration: 7170, Loss: 0.001461255131289363
+[15-Dec-22 16:26:09] [INFO] Iteration: 7180, Loss: 0.0009683246025815606
+[15-Dec-22 16:26:09] [INFO] Iteration: 7190, Loss: 0.0006707018474116921
+[15-Dec-22 16:26:09] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:26:09] [INFO] Constructing computation graph...
+[15-Dec-22 16:26:09] [INFO] <y>.y <---- net
+[15-Dec-22 16:26:09] [INFO] Computation graph constructed.
+[15-Dec-22 16:26:09] [INFO] Iteration: 7200, Loss: 0.0007417771266773343
+[15-Dec-22 16:26:09] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:10] [INFO] Iteration: 7210, Loss: 0.0009076804853975773
+[15-Dec-22 16:26:10] [INFO] Iteration: 7220, Loss: 0.0010811029933393002
+[15-Dec-22 16:26:10] [INFO] Iteration: 7230, Loss: 0.0012473518727347255
+[15-Dec-22 16:26:10] [INFO] Iteration: 7240, Loss: 0.0009924673940986395
+[15-Dec-22 16:26:10] [INFO] Iteration: 7250, Loss: 0.0007977240020409226
+[15-Dec-22 16:26:10] [INFO] Iteration: 7260, Loss: 0.0010962511878460646
+[15-Dec-22 16:26:11] [INFO] Iteration: 7270, Loss: 0.0011721012415364385
+[15-Dec-22 16:26:11] [INFO] Iteration: 7280, Loss: 0.0007829400710761547
+[15-Dec-22 16:26:11] [INFO] Iteration: 7290, Loss: 0.0010730249341577291
+[15-Dec-22 16:26:11] [INFO] Iteration: 7300, Loss: 0.0006706459680572152
+[15-Dec-22 16:26:11] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:11] [INFO] Iteration: 7310, Loss: 0.0010105771943926811
+[15-Dec-22 16:26:11] [INFO] Iteration: 7320, Loss: 0.0011477007064968348
+[15-Dec-22 16:26:12] [INFO] Iteration: 7330, Loss: 0.001054571010172367
+[15-Dec-22 16:26:12] [INFO] Iteration: 7340, Loss: 0.001163812936283648
+[15-Dec-22 16:26:12] [INFO] Iteration: 7350, Loss: 0.0012982164043933153
+[15-Dec-22 16:26:12] [INFO] Iteration: 7360, Loss: 0.0013857268495485187
+[15-Dec-22 16:26:12] [INFO] Iteration: 7370, Loss: 0.0024141701869666576
+[15-Dec-22 16:26:13] [INFO] Iteration: 7380, Loss: 0.0009811007184907794
+[15-Dec-22 16:26:13] [INFO] Iteration: 7390, Loss: 0.000703853671438992
+[15-Dec-22 16:26:13] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:26:13] [INFO] Constructing computation graph...
+[15-Dec-22 16:26:13] [INFO] <y>.y <---- net
+[15-Dec-22 16:26:13] [INFO] Computation graph constructed.
+[15-Dec-22 16:26:13] [INFO] Iteration: 7400, Loss: 0.0008846665732562542
+[15-Dec-22 16:26:13] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:13] [INFO] Iteration: 7410, Loss: 0.00074453663546592
+[15-Dec-22 16:26:13] [INFO] Iteration: 7420, Loss: 0.0006468367646448314
+[15-Dec-22 16:26:14] [INFO] Iteration: 7430, Loss: 0.0011107615428045392
+[15-Dec-22 16:26:14] [INFO] Iteration: 7440, Loss: 0.001029568025842309
+[15-Dec-22 16:26:14] [INFO] Iteration: 7450, Loss: 0.0009820167906582355
+[15-Dec-22 16:26:14] [INFO] Iteration: 7460, Loss: 0.0007943465025164187
+[15-Dec-22 16:26:14] [INFO] Iteration: 7470, Loss: 0.0010816729627549648
+[15-Dec-22 16:26:14] [INFO] Iteration: 7480, Loss: 0.0007043088553473353
+[15-Dec-22 16:26:15] [INFO] Iteration: 7490, Loss: 0.0007104916148819029
+[15-Dec-22 16:26:15] [INFO] Iteration: 7500, Loss: 0.0010972835589200258
+[15-Dec-22 16:26:15] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:15] [INFO] Iteration: 7510, Loss: 0.0009386189631186426
+[15-Dec-22 16:26:15] [INFO] Iteration: 7520, Loss: 0.0014296292793005705
+[15-Dec-22 16:26:15] [INFO] Iteration: 7530, Loss: 0.0008006301941350102
+[15-Dec-22 16:26:15] [INFO] Iteration: 7540, Loss: 0.0008946930174715817
+[15-Dec-22 16:26:16] [INFO] Iteration: 7550, Loss: 0.0006682236562483013
+[15-Dec-22 16:26:16] [INFO] Iteration: 7560, Loss: 0.0022683199495077133
+[15-Dec-22 16:26:16] [INFO] Iteration: 7570, Loss: 0.0010080215288326144
+[15-Dec-22 16:26:16] [INFO] Iteration: 7580, Loss: 0.0012259251670911908
+[15-Dec-22 16:26:16] [INFO] Iteration: 7590, Loss: 0.0011268490925431252
+[15-Dec-22 16:26:16] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:26:16] [INFO] Constructing computation graph...
+[15-Dec-22 16:26:16] [INFO] <y>.y <---- net
+[15-Dec-22 16:26:16] [INFO] Computation graph constructed.
+[15-Dec-22 16:26:16] [INFO] Iteration: 7600, Loss: 0.0007859072647988796
+[15-Dec-22 16:26:16] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:17] [INFO] Iteration: 7610, Loss: 0.0006606122478842735
+[15-Dec-22 16:26:17] [INFO] Iteration: 7620, Loss: 0.0005870317691005766
+[15-Dec-22 16:26:17] [INFO] Iteration: 7630, Loss: 0.0007337735150940716
+[15-Dec-22 16:26:17] [INFO] Iteration: 7640, Loss: 0.0009708030265755951
+[15-Dec-22 16:26:17] [INFO] Iteration: 7650, Loss: 0.0011087758466601372
+[15-Dec-22 16:26:18] [INFO] Iteration: 7660, Loss: 0.0009686574339866638
+[15-Dec-22 16:26:18] [INFO] Iteration: 7670, Loss: 0.0006967342342250049
+[15-Dec-22 16:26:18] [INFO] Iteration: 7680, Loss: 0.0005970900529064238
+[15-Dec-22 16:26:18] [INFO] Iteration: 7690, Loss: 0.0011655892012640834
+[15-Dec-22 16:26:18] [INFO] Iteration: 7700, Loss: 0.0009828447364270687
+[15-Dec-22 16:26:18] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:19] [INFO] Iteration: 7710, Loss: 0.0005804975517094135
+[15-Dec-22 16:26:19] [INFO] Iteration: 7720, Loss: 0.0007309372304007411
+[15-Dec-22 16:26:19] [INFO] Iteration: 7730, Loss: 0.0005895180511288345
+[15-Dec-22 16:26:19] [INFO] Iteration: 7740, Loss: 0.0005856531788595021
+[15-Dec-22 16:26:19] [INFO] Iteration: 7750, Loss: 0.0005690950783900917
+[15-Dec-22 16:26:19] [INFO] Iteration: 7760, Loss: 0.0010490135755389929
+[15-Dec-22 16:26:20] [INFO] Iteration: 7770, Loss: 0.0009627168765291572
+[15-Dec-22 16:26:20] [INFO] Iteration: 7780, Loss: 0.0010099876672029495
+[15-Dec-22 16:26:20] [INFO] Iteration: 7790, Loss: 0.0005875647766515613
+[15-Dec-22 16:26:20] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:26:20] [INFO] Constructing computation graph...
+[15-Dec-22 16:26:20] [INFO] <y>.y <---- net
+[15-Dec-22 16:26:20] [INFO] Computation graph constructed.
+[15-Dec-22 16:26:20] [INFO] Iteration: 7800, Loss: 0.0005873467889614403
+[15-Dec-22 16:26:20] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:20] [INFO] Iteration: 7810, Loss: 0.0006287426804192364
+[15-Dec-22 16:26:20] [INFO] Iteration: 7820, Loss: 0.0011114293010905385
+[15-Dec-22 16:26:21] [INFO] Iteration: 7830, Loss: 0.0005710580153390765
+[15-Dec-22 16:26:21] [INFO] Iteration: 7840, Loss: 0.0014933815691620111
+[15-Dec-22 16:26:21] [INFO] Iteration: 7850, Loss: 0.0024059689603745937
+[15-Dec-22 16:26:21] [INFO] Iteration: 7860, Loss: 0.0013519511558115482
+[15-Dec-22 16:26:21] [INFO] Iteration: 7870, Loss: 0.0011752914870157838
+[15-Dec-22 16:26:22] [INFO] Iteration: 7880, Loss: 0.0006252136663533747
+[15-Dec-22 16:26:22] [INFO] Iteration: 7890, Loss: 0.0006204367964528501
+[15-Dec-22 16:26:22] [INFO] Iteration: 7900, Loss: 0.0006129169487394392
+[15-Dec-22 16:26:22] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:22] [INFO] Iteration: 7910, Loss: 0.0007822989718988538
+[15-Dec-22 16:26:22] [INFO] Iteration: 7920, Loss: 0.0011303162900730968
+[15-Dec-22 16:26:23] [INFO] Iteration: 7930, Loss: 0.0018678978085517883
+[15-Dec-22 16:26:23] [INFO] Iteration: 7940, Loss: 0.0018032765947282314
+[15-Dec-22 16:26:23] [INFO] Iteration: 7950, Loss: 0.001428533811122179
+[15-Dec-22 16:26:23] [INFO] Iteration: 7960, Loss: 0.0010568209690973163
+[15-Dec-22 16:26:23] [INFO] Iteration: 7970, Loss: 0.0006339719402603805
+[15-Dec-22 16:26:23] [INFO] Iteration: 7980, Loss: 0.0007377844885922968
+[15-Dec-22 16:26:24] [INFO] Iteration: 7990, Loss: 0.0006735623464919627
+[15-Dec-22 16:26:24] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:26:24] [INFO] Constructing computation graph...
+[15-Dec-22 16:26:24] [INFO] <y>.y <---- net
+[15-Dec-22 16:26:24] [INFO] Computation graph constructed.
+[15-Dec-22 16:26:24] [INFO] Iteration: 8000, Loss: 0.0008381119114346802
+[15-Dec-22 16:26:24] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:24] [INFO] Iteration: 8010, Loss: 0.0011096613015979528
+[15-Dec-22 16:26:24] [INFO] Iteration: 8020, Loss: 0.0005861521931365132
+[15-Dec-22 16:26:24] [INFO] Iteration: 8030, Loss: 0.0006285383715294302
+[15-Dec-22 16:26:24] [INFO] Iteration: 8040, Loss: 0.0010004061041399837
+[15-Dec-22 16:26:25] [INFO] Iteration: 8050, Loss: 0.000600252125877887
+[15-Dec-22 16:26:25] [INFO] Iteration: 8060, Loss: 0.0005560611607506871
+[15-Dec-22 16:26:25] [INFO] Iteration: 8070, Loss: 0.0005649850936606526
+[15-Dec-22 16:26:25] [INFO] Iteration: 8080, Loss: 0.0009190953569486737
+[15-Dec-22 16:26:25] [INFO] Iteration: 8090, Loss: 0.0005595245747826993
+[15-Dec-22 16:26:26] [INFO] Iteration: 8100, Loss: 0.0006202706135809422
+[15-Dec-22 16:26:26] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:26] [INFO] Iteration: 8110, Loss: 0.0005602723686024547
+[15-Dec-22 16:26:26] [INFO] Iteration: 8120, Loss: 0.0005545903113670647
+[15-Dec-22 16:26:26] [INFO] Iteration: 8130, Loss: 0.0005492371856234968
+[15-Dec-22 16:26:26] [INFO] Iteration: 8140, Loss: 0.0005496793892234564
+[15-Dec-22 16:26:26] [INFO] Iteration: 8150, Loss: 0.0005485626752488315
+[15-Dec-22 16:26:27] [INFO] Iteration: 8160, Loss: 0.0005481005064211786
+[15-Dec-22 16:26:27] [INFO] Iteration: 8170, Loss: 0.0005479153478518128
+[15-Dec-22 16:26:27] [INFO] Iteration: 8180, Loss: 0.000547761213965714
+[15-Dec-22 16:26:27] [INFO] Iteration: 8190, Loss: 0.000547628675121814
+[15-Dec-22 16:26:27] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:26:27] [INFO] Constructing computation graph...
+[15-Dec-22 16:26:27] [INFO] <y>.y <---- net
+[15-Dec-22 16:26:27] [INFO] Computation graph constructed.
+[15-Dec-22 16:26:27] [INFO] Iteration: 8200, Loss: 0.0005474718054756522
+[15-Dec-22 16:26:27] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:28] [INFO] Iteration: 8210, Loss: 0.0005473276833072305
+[15-Dec-22 16:26:28] [INFO] Iteration: 8220, Loss: 0.0005471826298162341
+[15-Dec-22 16:26:28] [INFO] Iteration: 8230, Loss: 0.000547036703210324
+[15-Dec-22 16:26:28] [INFO] Iteration: 8240, Loss: 0.0005468901945278049
+[15-Dec-22 16:26:28] [INFO] Iteration: 8250, Loss: 0.000546745490282774
+[15-Dec-22 16:26:29] [INFO] Iteration: 8260, Loss: 0.0005465983995236456
+[15-Dec-22 16:26:29] [INFO] Iteration: 8270, Loss: 0.0005464531714096665
+[15-Dec-22 16:26:29] [INFO] Iteration: 8280, Loss: 0.0005463070701807737
+[15-Dec-22 16:26:29] [INFO] Iteration: 8290, Loss: 0.0005461626569740474
+[15-Dec-22 16:26:29] [INFO] Iteration: 8300, Loss: 0.000546011608093977
+[15-Dec-22 16:26:29] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:30] [INFO] Iteration: 8310, Loss: 0.000545867660548538
+[15-Dec-22 16:26:30] [INFO] Iteration: 8320, Loss: 0.0005457083461806178
+[15-Dec-22 16:26:30] [INFO] Iteration: 8330, Loss: 0.0005455735954456031
+[15-Dec-22 16:26:30] [INFO] Iteration: 8340, Loss: 0.0005454193451441824
+[15-Dec-22 16:26:30] [INFO] Iteration: 8350, Loss: 0.0005452599143609405
+[15-Dec-22 16:26:31] [INFO] Iteration: 8360, Loss: 0.000545102811884135
+[15-Dec-22 16:26:31] [INFO] Iteration: 8370, Loss: 0.0005449492018669844
+[15-Dec-22 16:26:31] [INFO] Iteration: 8380, Loss: 0.0005447969306260347
+[15-Dec-22 16:26:31] [INFO] Iteration: 8390, Loss: 0.0005446448340080678
+[15-Dec-22 16:26:31] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:26:31] [INFO] Constructing computation graph...
+[15-Dec-22 16:26:31] [INFO] <y>.y <---- net
+[15-Dec-22 16:26:31] [INFO] Computation graph constructed.
+[15-Dec-22 16:26:31] [INFO] Iteration: 8400, Loss: 0.0005444919224828482
+[15-Dec-22 16:26:31] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:31] [INFO] Iteration: 8410, Loss: 0.0005443511181510985
+[15-Dec-22 16:26:32] [INFO] Iteration: 8420, Loss: 0.0005441835965029895
+[15-Dec-22 16:26:32] [INFO] Iteration: 8430, Loss: 0.0005440474487841129
+[15-Dec-22 16:26:32] [INFO] Iteration: 8440, Loss: 0.000543861067853868
+[15-Dec-22 16:26:32] [INFO] Iteration: 8450, Loss: 0.0005437189247459173
+[15-Dec-22 16:26:32] [INFO] Iteration: 8460, Loss: 0.0005435440689325333
+[15-Dec-22 16:26:33] [INFO] Iteration: 8470, Loss: 0.0005433849291875958
+[15-Dec-22 16:26:33] [INFO] Iteration: 8480, Loss: 0.0005432250327430665
+[15-Dec-22 16:26:33] [INFO] Iteration: 8490, Loss: 0.0005430683959275484
+[15-Dec-22 16:26:33] [INFO] Iteration: 8500, Loss: 0.0005429232260212302
+[15-Dec-22 16:26:33] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:33] [INFO] Iteration: 8510, Loss: 0.0005427416763268411
+[15-Dec-22 16:26:34] [INFO] Iteration: 8520, Loss: 0.0005426643183454871
+[15-Dec-22 16:26:34] [INFO] Iteration: 8530, Loss: 0.000542421534191817
+[15-Dec-22 16:26:34] [INFO] Iteration: 8540, Loss: 0.0005423177499324083
+[15-Dec-22 16:26:34] [INFO] Iteration: 8550, Loss: 0.0005420951638370752
+[15-Dec-22 16:26:34] [INFO] Iteration: 8560, Loss: 0.0005419277586042881
+[15-Dec-22 16:26:34] [INFO] Iteration: 8570, Loss: 0.000541764369700104
+[15-Dec-22 16:26:35] [INFO] Iteration: 8580, Loss: 0.0005416095955297351
+[15-Dec-22 16:26:35] [INFO] Iteration: 8590, Loss: 0.0005414352053776383
+[15-Dec-22 16:26:35] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:26:35] [INFO] Constructing computation graph...
+[15-Dec-22 16:26:35] [INFO] <y>.y <---- net
+[15-Dec-22 16:26:35] [INFO] Computation graph constructed.
+[15-Dec-22 16:26:35] [INFO] Iteration: 8600, Loss: 0.0005413525504991412
+[15-Dec-22 16:26:35] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:35] [INFO] Iteration: 8610, Loss: 0.0005411216407082975
+[15-Dec-22 16:26:35] [INFO] Iteration: 8620, Loss: 0.0005411911988630891
+[15-Dec-22 16:26:35] [INFO] Iteration: 8630, Loss: 0.0006752361077815294
+[15-Dec-22 16:26:36] [INFO] Iteration: 8640, Loss: 0.0005842165555804968
+[15-Dec-22 16:26:36] [INFO] Iteration: 8650, Loss: 0.0005920855910517275
+[15-Dec-22 16:26:36] [INFO] Iteration: 8660, Loss: 0.0009116030996665359
+[15-Dec-22 16:26:36] [INFO] Iteration: 8670, Loss: 0.0005585861508734524
+[15-Dec-22 16:26:36] [INFO] Iteration: 8680, Loss: 0.0006588875548914075
+[15-Dec-22 16:26:36] [INFO] Iteration: 8690, Loss: 0.0006240871734917164
+[15-Dec-22 16:26:37] [INFO] Iteration: 8700, Loss: 0.0006385377491824329
+[15-Dec-22 16:26:37] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:37] [INFO] Iteration: 8710, Loss: 0.0005539170233532786
+[15-Dec-22 16:26:37] [INFO] Iteration: 8720, Loss: 0.0007709084893576801
+[15-Dec-22 16:26:37] [INFO] Iteration: 8730, Loss: 0.0007230951450765133
+[15-Dec-22 16:26:38] [INFO] Iteration: 8740, Loss: 0.0006274463376030326
+[15-Dec-22 16:26:38] [INFO] Iteration: 8750, Loss: 0.0005450662574730814
+[15-Dec-22 16:26:38] [INFO] Iteration: 8760, Loss: 0.0005466139991767704
+[15-Dec-22 16:26:38] [INFO] Iteration: 8770, Loss: 0.0005878119263797998
+[15-Dec-22 16:26:38] [INFO] Iteration: 8780, Loss: 0.0006667213747277856
+[15-Dec-22 16:26:38] [INFO] Iteration: 8790, Loss: 0.0009379046387039125
+[15-Dec-22 16:26:39] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:26:39] [INFO] Constructing computation graph...
+[15-Dec-22 16:26:39] [INFO] <y>.y <---- net
+[15-Dec-22 16:26:39] [INFO] Computation graph constructed.
+[15-Dec-22 16:26:39] [INFO] Iteration: 8800, Loss: 0.0006204905803315341
+[15-Dec-22 16:26:39] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:39] [INFO] Iteration: 8810, Loss: 0.0011104535078629851
+[15-Dec-22 16:26:39] [INFO] Iteration: 8820, Loss: 0.0014763172948732972
+[15-Dec-22 16:26:39] [INFO] Iteration: 8830, Loss: 0.0006276661297306418
+[15-Dec-22 16:26:39] [INFO] Iteration: 8840, Loss: 0.0007858634344302118
+[15-Dec-22 16:26:40] [INFO] Iteration: 8850, Loss: 0.0008669866947457194
+[15-Dec-22 16:26:40] [INFO] Iteration: 8860, Loss: 0.0006831749924458563
+[15-Dec-22 16:26:40] [INFO] Iteration: 8870, Loss: 0.0006873880629427731
+[15-Dec-22 16:26:40] [INFO] Iteration: 8880, Loss: 0.0007675662054680288
+[15-Dec-22 16:26:40] [INFO] Iteration: 8890, Loss: 0.0006138432072475553
+[15-Dec-22 16:26:40] [INFO] Iteration: 8900, Loss: 0.0005508477333933115
+[15-Dec-22 16:26:40] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:41] [INFO] Iteration: 8910, Loss: 0.0005657008150592446
+[15-Dec-22 16:26:41] [INFO] Iteration: 8920, Loss: 0.0008139705751091242
+[15-Dec-22 16:26:41] [INFO] Iteration: 8930, Loss: 0.0005472587654367089
+[15-Dec-22 16:26:41] [INFO] Iteration: 8940, Loss: 0.0008965465240180492
+[15-Dec-22 16:26:41] [INFO] Iteration: 8950, Loss: 0.0005656484863720834
+[15-Dec-22 16:26:41] [INFO] Iteration: 8960, Loss: 0.000986109604127705
+[15-Dec-22 16:26:42] [INFO] Iteration: 8970, Loss: 0.0011092531494796276
+[15-Dec-22 16:26:42] [INFO] Iteration: 8980, Loss: 0.0010503046214580536
+[15-Dec-22 16:26:42] [INFO] Iteration: 8990, Loss: 0.0009941782336682081
+[15-Dec-22 16:26:42] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:26:42] [INFO] Constructing computation graph...
+[15-Dec-22 16:26:42] [INFO] <y>.y <---- net
+[15-Dec-22 16:26:42] [INFO] Computation graph constructed.
+[15-Dec-22 16:26:42] [INFO] Iteration: 9000, Loss: 0.0010179087985306978
+[15-Dec-22 16:26:42] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:42] [INFO] Iteration: 9010, Loss: 0.0008070633048191667
+[15-Dec-22 16:26:43] [INFO] Iteration: 9020, Loss: 0.00211778050288558
+[15-Dec-22 16:26:43] [INFO] Iteration: 9030, Loss: 0.0014896495267748833
+[15-Dec-22 16:26:43] [INFO] Iteration: 9040, Loss: 0.001185770845040679
+[15-Dec-22 16:26:43] [INFO] Iteration: 9050, Loss: 0.001526369946077466
+[15-Dec-22 16:26:43] [INFO] Iteration: 9060, Loss: 0.0011637168936431408
+[15-Dec-22 16:26:44] [INFO] Iteration: 9070, Loss: 0.0007778548169881105
+[15-Dec-22 16:26:44] [INFO] Iteration: 9080, Loss: 0.0009772289777174592
+[15-Dec-22 16:26:44] [INFO] Iteration: 9090, Loss: 0.0009647776023484766
+[15-Dec-22 16:26:44] [INFO] Iteration: 9100, Loss: 0.0005787085392512381
+[15-Dec-22 16:26:44] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:44] [INFO] Iteration: 9110, Loss: 0.000580522115342319
+[15-Dec-22 16:26:44] [INFO] Iteration: 9120, Loss: 0.001382031594403088
+[15-Dec-22 16:26:45] [INFO] Iteration: 9130, Loss: 0.0008303070208057761
+[15-Dec-22 16:26:45] [INFO] Iteration: 9140, Loss: 0.0005834451876580715
+[15-Dec-22 16:26:45] [INFO] Iteration: 9150, Loss: 0.0008556157699786127
+[15-Dec-22 16:26:45] [INFO] Iteration: 9160, Loss: 0.0005707266973331571
+[15-Dec-22 16:26:45] [INFO] Iteration: 9170, Loss: 0.0005541862919926643
+[15-Dec-22 16:26:45] [INFO] Iteration: 9180, Loss: 0.0008380782091990113
+[15-Dec-22 16:26:46] [INFO] Iteration: 9190, Loss: 0.0008940578554756939
+[15-Dec-22 16:26:46] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:26:46] [INFO] Constructing computation graph...
+[15-Dec-22 16:26:46] [INFO] <y>.y <---- net
+[15-Dec-22 16:26:46] [INFO] Computation graph constructed.
+[15-Dec-22 16:26:46] [INFO] Iteration: 9200, Loss: 0.0006553742568939924
+[15-Dec-22 16:26:46] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:46] [INFO] Iteration: 9210, Loss: 0.0007720089051872492
+[15-Dec-22 16:26:46] [INFO] Iteration: 9220, Loss: 0.0010082925437018275
+[15-Dec-22 16:26:46] [INFO] Iteration: 9230, Loss: 0.0006655297474935651
+[15-Dec-22 16:26:46] [INFO] Iteration: 9240, Loss: 0.0005882250843569636
+[15-Dec-22 16:26:47] [INFO] Iteration: 9250, Loss: 0.0005559325218200684
+[15-Dec-22 16:26:47] [INFO] Iteration: 9260, Loss: 0.0005505217122845352
+[15-Dec-22 16:26:47] [INFO] Iteration: 9270, Loss: 0.0005825793487019837
+[15-Dec-22 16:26:47] [INFO] Iteration: 9280, Loss: 0.0005771259311586618
+[15-Dec-22 16:26:47] [INFO] Iteration: 9290, Loss: 0.0005593825480900705
+[15-Dec-22 16:26:48] [INFO] Iteration: 9300, Loss: 0.0005449160235002637
+[15-Dec-22 16:26:48] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:48] [INFO] Iteration: 9310, Loss: 0.0005426857969723642
+[15-Dec-22 16:26:48] [INFO] Iteration: 9320, Loss: 0.0005427187425084412
+[15-Dec-22 16:26:48] [INFO] Iteration: 9330, Loss: 0.0005420299130491912
+[15-Dec-22 16:26:48] [INFO] Iteration: 9340, Loss: 0.000540830020327121
+[15-Dec-22 16:26:49] [INFO] Iteration: 9350, Loss: 0.0005404361290857196
+[15-Dec-22 16:26:49] [INFO] Iteration: 9360, Loss: 0.0005400244845077395
+[15-Dec-22 16:26:49] [INFO] Iteration: 9370, Loss: 0.000539500848390162
+[15-Dec-22 16:26:49] [INFO] Iteration: 9380, Loss: 0.0005390944425016642
+[15-Dec-22 16:26:49] [INFO] Iteration: 9390, Loss: 0.0005386591656133533
+[15-Dec-22 16:26:49] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:26:49] [INFO] Constructing computation graph...
+[15-Dec-22 16:26:49] [INFO] <y>.y <---- net
+[15-Dec-22 16:26:49] [INFO] Computation graph constructed.
+[15-Dec-22 16:26:49] [INFO] Iteration: 9400, Loss: 0.0005382194649428129
+[15-Dec-22 16:26:49] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:50] [INFO] Iteration: 9410, Loss: 0.0005377863417379558
+[15-Dec-22 16:26:50] [INFO] Iteration: 9420, Loss: 0.0005373766180127859
+[15-Dec-22 16:26:50] [INFO] Iteration: 9430, Loss: 0.0005369695136323571
+[15-Dec-22 16:26:50] [INFO] Iteration: 9440, Loss: 0.000536571373231709
+[15-Dec-22 16:26:50] [INFO] Iteration: 9450, Loss: 0.0005361810326576233
+[15-Dec-22 16:26:50] [INFO] Iteration: 9460, Loss: 0.0005358066409826279
+[15-Dec-22 16:26:51] [INFO] Iteration: 9470, Loss: 0.0005354275926947594
+[15-Dec-22 16:26:51] [INFO] Iteration: 9480, Loss: 0.0005350667051970959
+[15-Dec-22 16:26:51] [INFO] Iteration: 9490, Loss: 0.0005346972611732781
+[15-Dec-22 16:26:51] [INFO] Iteration: 9500, Loss: 0.0005343299126252532
+[15-Dec-22 16:26:51] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:51] [INFO] Iteration: 9510, Loss: 0.0005339847994036973
+[15-Dec-22 16:26:52] [INFO] Iteration: 9520, Loss: 0.0005336512112990022
+[15-Dec-22 16:26:52] [INFO] Iteration: 9530, Loss: 0.0005332945147529244
+[15-Dec-22 16:26:52] [INFO] Iteration: 9540, Loss: 0.0005329416017048061
+[15-Dec-22 16:26:52] [INFO] Iteration: 9550, Loss: 0.0005326661048457026
+[15-Dec-22 16:26:52] [INFO] Iteration: 9560, Loss: 0.0005323005025275052
+[15-Dec-22 16:26:52] [INFO] Iteration: 9570, Loss: 0.0005319768097251654
+[15-Dec-22 16:26:53] [INFO] Iteration: 9580, Loss: 0.0005316525930538774
+[15-Dec-22 16:26:53] [INFO] Iteration: 9590, Loss: 0.0005313493311405182
+[15-Dec-22 16:26:53] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:26:53] [INFO] Constructing computation graph...
+[15-Dec-22 16:26:53] [INFO] <y>.y <---- net
+[15-Dec-22 16:26:53] [INFO] Computation graph constructed.
+[15-Dec-22 16:26:53] [INFO] Iteration: 9600, Loss: 0.0005310489796102047
+[15-Dec-22 16:26:53] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:53] [INFO] Iteration: 9610, Loss: 0.0005307446699589491
+[15-Dec-22 16:26:53] [INFO] Iteration: 9620, Loss: 0.0005304391961544752
+[15-Dec-22 16:26:54] [INFO] Iteration: 9630, Loss: 0.0005301421042531729
+[15-Dec-22 16:26:54] [INFO] Iteration: 9640, Loss: 0.0005298483883962035
+[15-Dec-22 16:26:54] [INFO] Iteration: 9650, Loss: 0.0005295586306601763
+[15-Dec-22 16:26:54] [INFO] Iteration: 9660, Loss: 0.0005292733549140394
+[15-Dec-22 16:26:54] [INFO] Iteration: 9670, Loss: 0.0005289900582283735
+[15-Dec-22 16:26:55] [INFO] Iteration: 9680, Loss: 0.000528711942024529
+[15-Dec-22 16:26:55] [INFO] Iteration: 9690, Loss: 0.0005284277722239494
+[15-Dec-22 16:26:55] [INFO] Iteration: 9700, Loss: 0.0005281541380099952
+[15-Dec-22 16:26:55] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:55] [INFO] Iteration: 9710, Loss: 0.0005278755561448634
+[15-Dec-22 16:26:55] [INFO] Iteration: 9720, Loss: 0.0005276011652313173
+[15-Dec-22 16:26:55] [INFO] Iteration: 9730, Loss: 0.0005273304414004087
+[15-Dec-22 16:26:56] [INFO] Iteration: 9740, Loss: 0.0005270593101158738
+[15-Dec-22 16:26:56] [INFO] Iteration: 9750, Loss: 0.0005267891101539135
+[15-Dec-22 16:26:56] [INFO] Iteration: 9760, Loss: 0.000526533171068877
+[15-Dec-22 16:26:56] [INFO] Iteration: 9770, Loss: 0.0005262616905383766
+[15-Dec-22 16:26:56] [INFO] Iteration: 9780, Loss: 0.0005260095931589603
+[15-Dec-22 16:26:56] [INFO] Iteration: 9790, Loss: 0.0005258468445390463
+[15-Dec-22 16:26:57] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:26:57] [INFO] Constructing computation graph...
+[15-Dec-22 16:26:57] [INFO] <y>.y <---- net
+[15-Dec-22 16:26:57] [INFO] Computation graph constructed.
+[15-Dec-22 16:26:57] [INFO] Iteration: 9800, Loss: 0.000778773392084986
+[15-Dec-22 16:26:57] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:57] [INFO] Iteration: 9810, Loss: 0.0006993566639721394
+[15-Dec-22 16:26:57] [INFO] Iteration: 9820, Loss: 0.0010964187094941735
+[15-Dec-22 16:26:57] [INFO] Iteration: 9830, Loss: 0.0008230521343648434
+[15-Dec-22 16:26:57] [INFO] Iteration: 9840, Loss: 0.0005589716020040214
+[15-Dec-22 16:26:58] [INFO] Iteration: 9850, Loss: 0.0006520149763673544
+[15-Dec-22 16:26:58] [INFO] Iteration: 9860, Loss: 0.0007040597847662866
+[15-Dec-22 16:26:58] [INFO] Iteration: 9870, Loss: 0.0006900709122419357
+[15-Dec-22 16:26:58] [INFO] Iteration: 9880, Loss: 0.0023965174332261086
+[15-Dec-22 16:26:58] [INFO] Iteration: 9890, Loss: 0.0008095283410511911
+[15-Dec-22 16:26:59] [INFO] Iteration: 9900, Loss: 0.0015633373986929655
+[15-Dec-22 16:26:59] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:26:59] [INFO] Iteration: 9910, Loss: 0.0020431331358850002
+[15-Dec-22 16:26:59] [INFO] Iteration: 9920, Loss: 0.0010760001605376601
+[15-Dec-22 16:26:59] [INFO] Iteration: 9930, Loss: 0.0006815703818574548
+[15-Dec-22 16:27:00] [INFO] Iteration: 9940, Loss: 0.0021597384475171566
+[15-Dec-22 16:27:00] [INFO] Iteration: 9950, Loss: 0.0005728363757953048
+[15-Dec-22 16:27:00] [INFO] Iteration: 9960, Loss: 0.0007602407713420689
+[15-Dec-22 16:27:01] [INFO] Iteration: 9970, Loss: 0.000610406044870615
+[15-Dec-22 16:27:01] [INFO] Iteration: 9980, Loss: 0.0008108532638289034
+[15-Dec-22 16:27:01] [INFO] Iteration: 9990, Loss: 0.0007502535590901971
+[15-Dec-22 16:27:01] [INFO] The existing graph fails. Construct a temporary graph...
+[15-Dec-22 16:27:01] [INFO] Constructing computation graph...
+[15-Dec-22 16:27:01] [INFO] <y>.y <---- net
+[15-Dec-22 16:27:01] [INFO] Computation graph constructed.
+[15-Dec-22 16:27:01] [INFO] Iteration: 10000, Loss: 0.0005806806730106473
+[15-Dec-22 16:27:01] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Supervised Learning - Vanilla\network_dir\model.ckpt
+[15-Dec-22 16:27:01] [INFO] Training Stage Ends
