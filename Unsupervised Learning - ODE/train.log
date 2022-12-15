@@ -1318,3 +1318,24 @@
 [11-Dec-22 19:52:44] [INFO] Iteration: 10000, Loss: 0.10204319655895233
 [11-Dec-22 19:52:44] [INFO] save to path: D:\MIT\Academics\Fall 2022\6.7900 - Machine Learning\6.7900-Project\Unsupervised Learning - ODE\network_dir\model.ckpt
 [11-Dec-22 19:52:44] [INFO] Training Stage Ends
+[11-Dec-22 20:29:12] [INFO] GPU available
+[11-Dec-22 20:29:18] [INFO] Successfully loading net.
+[11-Dec-22 20:29:18] [INFO] Constructing computation graph for domain <Boundary>
+[11-Dec-22 20:29:18] [INFO] Constructing computation graph...
+[11-Dec-22 20:29:18] [INFO] <y>.y <---- net
+[11-Dec-22 20:29:18] [INFO] Computation graph constructed.
+[11-Dec-22 20:29:18] [INFO] Constructing computation graph for domain <Interior>
+[11-Dec-22 20:29:18] [INFO] Constructing computation graph...
+[11-Dec-22 20:29:18] [INFO] <ode>.ode <---- ode
+[11-Dec-22 20:29:18] [INFO] ode.y <---- net
+[11-Dec-22 20:29:18] [INFO] ode.y__x <---- net
+[11-Dec-22 20:29:18] [INFO] ode.y__x__x <---- net
+[11-Dec-22 20:29:18] [INFO] Computation graph constructed.
+[11-Dec-22 20:29:19] [INFO] Constructing computation graph for domain <InteriorInfer>
+[11-Dec-22 20:29:19] [INFO] Constructing computation graph...
+[11-Dec-22 20:29:19] [INFO] Computation graph constructed.
+[11-Dec-22 20:29:27] [INFO] The existing graph fails. Construct a temporary graph...
+[11-Dec-22 20:29:27] [INFO] Constructing computation graph...
+[11-Dec-22 20:29:27] [INFO] <y>.y <---- net
+[11-Dec-22 20:29:27] [INFO] Computation graph constructed.
+[11-Dec-22 20:29:27] [INFO] Training Stage Ends

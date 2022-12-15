@@ -115,7 +115,7 @@ class PlotReceiver(sc.Receiver):
                 #     plt.plot(self.xx, yy, label=f"iter={step}")
                 # if step == 1000:
                 #     plt.plot(self.xx[::100], yy[::100], "-o")
-            theta = np.linspace(0, 3.50837,100)
+            theta = np.linspace(0, 3.50837,1001, endpoint = True)
             plt.plot(0.2586 * (theta - np.sin(theta)), -0.2586 * (1 - np.cos(theta)), "-x", label = "exact")
             plt.legend()
             plt.xlabel("x")
